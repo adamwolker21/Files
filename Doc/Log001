@@ -1,0 +1,291 @@
+--------- beginning of main
+10-15 04:16:00.050 32319 32319 D InputTransport: Input channel destroyed: '32b2d68', fd=143
+10-15 04:16:00.080 32319 32319 I ViewRootImpl@a5591d[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 1 0
+10-15 04:16:00.081 32319 32319 I ViewRootImpl@a5591d[MainActivity]: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0x7b5d9aa800}
+10-15 04:16:00.085 32319 32319 D InputMethodManager: startInputInner - Id : 0
+10-15 04:16:00.085 32319 32319 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+10-15 04:16:00.924 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 0
+10-15 04:16:01.037 32319 32319 D WindowOnBackDispatcher: onBackInvoked, viewRoot=ViewRootImpl@9f6abe8[MainActivity], callback=androidx.activity.OnBackPressedDispatcher$Api33Impl$$ExternalSyntheticLambda0@4ed6942
+10-15 04:16:01.044 32319 32319 I IMM_LC  : hsifw() - flag : 0
+10-15 04:16:01.044 32319 32319 I IMM_LC  : hsifw() - mService.hideSoftInput
+10-15 04:16:01.053 32319 32319 D ScrollView: initGoToTop
+10-15 04:16:01.082 32319 32319 E CoilImgLoader: Error loading image: coil3.request.NullRequestDataException: The request's data is null.
+10-15 04:16:01.093 32319 32319 D ScrollView:  onsize change changed 
+10-15 04:16:01.907 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 0
+10-15 04:16:01.973 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 1
+10-15 04:16:01.976 32319 32319 I NavComponent: Navigating to fragment: 2131361879
+10-15 04:16:01.982 32319 32319 I IMM_LC  : hsifw() - flag : 0
+10-15 04:16:01.982 32319 32319 I IMM_LC  : hsifw() - mService.hideSoftInput
+10-15 04:16:03.115 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 0
+10-15 04:16:03.181 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 1
+10-15 04:16:03.214 32319 32319 I IMM_LC  : hsifw() - flag : 0
+10-15 04:16:03.215 32319 32319 I IMM_LC  : hsifw() - mService.hideSoftInput
+10-15 04:16:03.349 32319 32330 W st.cloudstream3: Cleared Reference was only reachable from finalizer (only reported once)
+10-15 04:16:03.395 32319 32319 I PLG     : updatePluginList = https://raw.githubusercontent.com/adamwolker21/DZ/refs/heads/master/repo.json
+10-15 04:16:03.397 32319 32319 I PLG     : getPlugins = https://raw.githubusercontent.com/adamwolker21/DZ/refs/heads/master/repo.json
+10-15 04:16:03.428 32319 32330 I st.cloudstream3: Background concurrent copying GC freed 18MB AllocSpace bytes, 73(3192KB) LOS objects, 49% free, 12MB/25MB, paused 971us,100us total 231.682ms
+10-15 04:16:03.429 32319 32331 D InputTransport: Input channel destroyed: 'ClientS', fd=141
+10-15 04:16:03.430 32319 32343 D OpenGLRenderer: setSurface called with nullptr
+10-15 04:16:03.608 32319 32382 D VotingApi: Requesting: https://counterapi.com/api/cs-raw.githubusercontent.com-adamwolker21-DZ/vote/806f9e9bb0fe6eed948cf51910bda7c7a4f4470876514f9eb99299b4b4e46db4?readOnly=true
+10-15 04:16:11.806 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 0
+10-15 04:16:11.896 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 1
+10-15 04:16:11.906 32319 32381 I PLG     : handlePluginAction = https://raw.githubusercontent.com/adamwolker21/DZ/refs/heads/master/repo.json, (https://raw.githubusercontent.com/adamwolker21/DZ/refs/heads/master/repo.json, SitePlugin(url=https://raw.githubusercontent.com/adamwolker21/DZ/builds/EgyDead.cs3, status=1, version=1, apiVersion=1, name=EgyDead, internalName=EgyDead, authors=[adamwolker21], description=EgyDead, repositoryUrl=https://github.com/adamwolker21/DZ, tvTypes=[Movie, TvSeries], language=ar, iconUrl=https://raw.githubusercontent.com/adamwolker21/DZ/refs/heads/master/EgyDead/Egydead.png, fileSize=23120)), false
+10-15 04:16:11.908 32319 32381 D PluginManager: Downloading plugin: https://raw.githubusercontent.com/adamwolker21/DZ/builds/EgyDead.cs3 to /data/user/0/com.lagradost.cloudstream3/files/Extensions/httpsraw.githubusercontent.comadamwolker21DZrefsheadsmasterrepo.json.-468825824/EgyDead.-124080901.cs3
+10-15 04:16:12.361 32319 32381 I PluginManager: Unloading plugin: /data/user/0/com.lagradost.cloudstream3/files/Extensions/httpsraw.githubusercontent.comadamwolker21DZrefsheadsmasterrepo.json.-468825824/EgyDead.-124080901.cs3
+10-15 04:16:12.361 32319 32381 W PluginManager: Couldn't find plugin /data/user/0/com.lagradost.cloudstream3/files/Extensions/httpsraw.githubusercontent.comadamwolker21DZrefsheadsmasterrepo.json.-468825824/EgyDead.-124080901.cs3
+10-15 04:16:12.362 32319 32381 I PluginManager: Loading plugin: PluginData(internalName=EgyDead, url=https://raw.githubusercontent.com/adamwolker21/DZ/builds/EgyDead.cs3, isOnline=true, filePath=/data/user/0/com.lagradost.cloudstream3/files/Extensions/httpsraw.githubusercontent.comadamwolker21DZrefsheadsmasterrepo.json.-468825824/EgyDead.-124080901.cs3, version=-2147483648)
+10-15 04:16:12.439 32319 32381 I PluginInstance: Adding EgyDead (https://tv6.egydead.live) MainAPI
+10-15 04:16:12.439 32319 32381 I PluginInstance: Adding Earnvids (dingtezuni.com) ExtractorApi
+10-15 04:16:12.466 32319 32381 I PluginInstance: Adding StreamHG (hglink.to) ExtractorApi
+10-15 04:16:12.466 32319 32381 I PluginManager: Loaded plugin EgyDead successfully
+10-15 04:16:12.466 32319 32381 I PLG     : getPlugins = https://raw.githubusercontent.com/adamwolker21/DZ/refs/heads/master/repo.json
+10-15 04:16:12.467 32319 32319 I COMPACT : showToast = Plugin Loaded
+10-15 04:16:12.476 32319 32319 D CompatibilityChangeReporter: Compat change id reported: 147798919; UID 10523; state: ENABLED
+10-15 04:16:12.476 32319 32319 E Toast   : setGravity() shouldn't be called on text toasts, the values won't be used
+10-15 04:16:12.476 32319 32319 I Toast   : setView: it's a custom toast
+10-15 04:16:12.486 32319 32319 V Toast   : show: caller = com.lagradost.cloudstream3.CommonActivity.showToast:175 
+10-15 04:16:12.497 32319 32319 V Toast   : HANDLE SHOW: android.widget.Toast$TN@b639a22 mView=null mNextView=androidx.cardview.widget.CardView{aab2cb3 V.E..V... ......ID 0,0-0,0 #7f0a0557 app:id/toast_layout_root}
+10-15 04:16:12.503 32319 32319 V ToastPresenter: sipHeight = -39
+10-15 04:16:12.505 32319 32319 V ToastPresenter: yOffset = 13
+10-15 04:16:12.509 32319 32343 D NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+10-15 04:16:12.521 32319 32319 D InsetsController: onStateChanged: InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2400), mDisplayCutout=DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2400 physicalDisplayWidth=1080 physicalDisplayHeight=2400 density={2.625} cutoutSpec={M 0,0 M 0,12.25101276465640 a 10.60613009248640,10.60613009248640 0 1,0 0,21.21226018497290 a 10.60613009248640,10.60613009248640 0 1,0 0,-21.21226018497290 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=84, center=Point(84, 84)}, RoundedCorner{position=TopRight, radius=84, center=Point(996, 84)}, RoundedCorner{position=BottomRight, radius=84, center=Point(996, 2316)}, RoundedCorner{position=BottomLeft, radius=84, center=Point(84, 2316)}]}  mRoundedCornerFrame=Rect(0, 0 - 0, 0), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(964, 0 - 1080, 87) rotation=0}, mSources= { InsetsSource: {mType=ITYPE_NAVIGATION_BAR, mFrame=[0,2361][1080,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_LEFT_GESTURES, mFrame=[0,0][130,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_RIGHT_GESTURES, mFrame=[950,0][1080,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_TOP_MANDATORY_GESTURES, mFrame=[0,0][1080,120], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_BOTTOM_MANDATORY_GESTURES, mFrame=[0,2316][1080,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_LEFT_DISPLAY_CUTOUT, mFrame=[0,0][-100000,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_TOP_DISPLAY_CUTOUT, mFrame=[0,0][1080,88], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_RIGHT_DISPLAY_CUTOUT, mFrame=[100000,0][1080,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_BOTTOM_DISPLAY_CUTOUT, mFrame=[0,100000][1080,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_BOTTOM_TAPPABLE_ELEMENT, mFrame=[0,0][0,0], mVisible=true, mInsetsRoundedCornerFrame=false} } host=Toast from=android.view.ViewRootImpl.setView:1732
+10-15 04:16:12.523 32319 32319 I ViewRootImpl@7f2c270[Toast]: setView = androidx.cardview.widget.CardView@aab2cb3 TM=true
+10-15 04:16:12.580 32319 32319 I ViewRootImpl@7f2c270[Toast]: performTraversals params={(0,13)(wrapxwrap) gr=BOTTOM CENTER sim={adjust=resize} ty=TOAST fmt=TRANSLUCENT wanim=0x1030004 surfaceInsets=Rect(11, 11 - 11, 11)
+10-15 04:16:12.580 32319 32319 I ViewRootImpl@7f2c270[Toast]:   fl=1000098
+10-15 04:16:12.580 32319 32319 I ViewRootImpl@7f2c270[Toast]:   pfl=12000000
+10-15 04:16:12.580 32319 32319 I ViewRootImpl@7f2c270[Toast]:   bhv=DEFAULT
+10-15 04:16:12.580 32319 32319 I ViewRootImpl@7f2c270[Toast]:   fitTypes=STATUS_BARS NAVIGATION_BARS CAPTION_BAR
+10-15 04:16:12.580 32319 32319 I ViewRootImpl@7f2c270[Toast]:   fitIgnoreVis naviIconColor=0}
+10-15 04:16:12.580 32319 32319 I ViewRootImpl@7f2c270[Toast]: performTraversals mFirst=true windowShouldResize=false viewVisibilityChanged=false mForceNextWindowRelayout=false params={(0,13)(wrapxwrap) gr=BOTTOM CENTER sim={adjust=resize} ty=TOAST fmt=TRANSLUCENT wanim=0x1030004 surfaceInsets=Rect(11, 11 - 11, 11)
+10-15 04:16:12.580 32319 32319 I ViewRootImpl@7f2c270[Toast]:   fl=1000098
+10-15 04:16:12.580 32319 32319 I ViewRootImpl@7f2c270[Toast]:   pfl=12000000
+10-15 04:16:12.580 32319 32319 I ViewRootImpl@7f2c270[Toast]:   bhv=DEFAULT
+10-15 04:16:12.580 32319 32319 I ViewRootImpl@7f2c270[Toast]:   fitTypes=STATUS_BARS NAVIGATION_BARS CAPTION_BAR
+10-15 04:16:12.580 32319 32319 I ViewRootImpl@7f2c270[Toast]:   fitIgnoreVis naviIconColor=0}
+10-15 04:16:12.593 32319 32319 I ViewRootImpl@7f2c270[Toast]: updateBlastSurfaceIfNeeded mBlastBufferQueue=null isSameSurfaceControl=false
+10-15 04:16:12.594 32319 32319 I BLASTBufferQueue: new BLASTBufferQueue, mName= ViewRootImpl@7f2c270[Toast] mNativeObject= 0x7b5d87c500 sc.mNativeObject= 0x7bdab5bac0 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:2909 android.view.ViewRootImpl.relayoutWindow:9847 android.view.ViewRootImpl.performTraversals:3884 android.view.ViewRootImpl.doTraversal:3116 android.view.ViewRootImpl$TraversalRunnable.run:10885 android.view.Choreographer$CallbackRecord.run:1301 android.view.Choreographer$CallbackRecord.run:1309 android.view.Choreographer.doCallbacks:923 android.view.Choreographer.doFrame:852 android.view.Choreographer$FrameDisplayEventReceiver.run:1283 
+10-15 04:16:12.594 32319 32319 I BLASTBufferQueue: update, w= 373 h= 178 mName = ViewRootImpl@7f2c270[Toast] mNativeObject= 0x7b5d87c500 sc.mNativeObject= 0x7bdab5bac0 format= -3 caller= android.graphics.BLASTBufferQueue.<init>:84 android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:2909 android.view.ViewRootImpl.relayoutWindow:9847 android.view.ViewRootImpl.performTraversals:3884 android.view.ViewRootImpl.doTraversal:3116 android.view.ViewRootImpl$TraversalRunnable.run:10885 
+10-15 04:16:12.595 32319 32319 I ViewRootImpl@7f2c270[Toast]: Relayout returned: old=(0,88,1080,2361) new=(364,2192,715,2348) req=(351,156)0 dur=13 res=0x3 s={true 0x7b31755000} ch=true seqId=0
+10-15 04:16:12.596 32319 32319 I ViewRootImpl@7f2c270[Toast]: mThreadedRenderer.initialize() mSurface={isValid=true 0x7b31755000} hwInitialized=true
+10-15 04:16:12.597 32319 32343 D OpenGLRenderer: eglCreateWindowSurface
+10-15 04:16:12.597 32319 32319 I ViewRootImpl@7f2c270[Toast]: reportNextDraw android.view.ViewRootImpl.performTraversals:4438 android.view.ViewRootImpl.doTraversal:3116 android.view.ViewRootImpl$TraversalRunnable.run:10885 android.view.Choreographer$CallbackRecord.run:1301 android.view.Choreographer$CallbackRecord.run:1309 
+10-15 04:16:12.597 32319 32319 I ViewRootImpl@7f2c270[Toast]: Setup new sync id=0
+10-15 04:16:12.597 32319 32319 I ViewRootImpl@7f2c270[Toast]: Setting syncFrameCallback
+10-15 04:16:12.597 32319 32319 I ViewRootImpl@7f2c270[Toast]: registerCallbacksForSync syncBuffer=false
+10-15 04:16:12.600 32319 32404 I ViewRootImpl@7f2c270[Toast]: Received frameDrawingCallback syncResult=0 frameNum=1.
+10-15 04:16:12.600 32319 32404 I ViewRootImpl@7f2c270[Toast]: Setting up sync and frameCommitCallback
+10-15 04:16:12.604 32319 32343 I BLASTBufferQueue: [ViewRootImpl@7f2c270[Toast]#2](f:0,a:0) onFrameAvailable the first frame is available
+10-15 04:16:12.605 32319 32343 I ViewRootImpl@7f2c270[Toast]: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+10-15 04:16:12.607 32319 32343 D OpenGLRenderer: CFMS:: SetUp Pid : 32319    Tid : 32343
+10-15 04:16:12.610 32319 32319 I ViewRootImpl@7f2c270[Toast]: onSyncComplete
+10-15 04:16:12.611 32319 32319 I ViewRootImpl@7f2c270[Toast]: setupSync seqId=0 mSyncId=0 fn=1 caller=android.view.ViewRootImpl$$ExternalSyntheticLambda11.accept:6 android.window.SurfaceSyncer.lambda$setupSync$1$android-window-SurfaceSyncer:128 android.window.SurfaceSyncer$$ExternalSyntheticLambda1.accept:8 android.window.SurfaceSyncer$SyncSet.checkIfSyncIsComplete:382 android.window.SurfaceSyncer$SyncSet.markSyncReady:359 android.window.SurfaceSyncer.markSyncReady:151 android.view.ViewRootImpl.performTraversals:4503 
+10-15 04:16:12.611 32319 32319 I ViewRootImpl@7f2c270[Toast]: reportDrawFinished seqId=0 mSyncId=-1 fn=1 mSurfaceChangedTransaction=0x7bed866300
+10-15 04:16:13.908 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 0
+10-15 04:16:14.014 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 1
+10-15 04:16:14.038 32319 32319 I IMM_LC  : hsifw() - flag : 0
+10-15 04:16:14.039 32319 32319 I IMM_LC  : hsifw() - mService.hideSoftInput
+10-15 04:16:14.156 32319 32381 D EgyDeadProvider: Requesting getMainPage URL: https://tv6.egydead.live/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a-%d8%a7%d9%88%d9%86%d9%84%d8%a7%d9%8a%d9%86/
+10-15 04:16:14.156 32319 32371 D EgyDeadProvider: Requesting getMainPage URL: https://tv6.egydead.live/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%b3%d9%8a%d9%88%d9%8a%d8%a9/
+10-15 04:16:14.157 32319 32375 D EgyDeadProvider: Requesting getMainPage URL: https://tv6.egydead.live/series-category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d8%b3%d9%8a%d9%88%d9%8a%d8%a9/
+10-15 04:16:14.161 32319 32391 I System.out: Initial web-view request: https://tv6.egydead.live/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a-%d8%a7%d9%88%d9%86%d9%84%d8%a7%d9%8a%d9%86/
+10-15 04:16:14.161 32319 32383 I System.out: Initial web-view request: https://tv6.egydead.live/series-category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d8%b3%d9%8a%d9%88%d9%8a%d8%a9/
+10-15 04:16:14.162 32319 32390 I System.out: Initial web-view request: https://tv6.egydead.live/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%b3%d9%8a%d9%88%d9%8a%d8%a9/
+10-15 04:16:14.224 32319 32319 I WebViewFactory: Loading com.google.android.webview version 141.0.7390.43 (code 739004333)
+10-15 04:16:14.228 32319 32319 W st.cloudstream3: Failed to find entry 'classes.dex': Entry not found
+10-15 04:16:14.229 32319 32319 D nativeloader: Configuring clns-6 for other apk /data/app/~~KzgKvUv1JwmzxHei_tsHXQ==/com.google.android.trichromelibrary_739004333-NHJfK8xUfQ5oC0LHEjEvPw==/base.apk. target_sdk_version=36, uses_libraries=ALL, library_path=/data/app/~~Z7EoFjMbPG94A6o-3Nb5UQ==/com.google.android.webview-eZKrupClwVmgDmxWAn78Ag==/lib/arm64:/data/app/~~Z7EoFjMbPG94A6o-3Nb5UQ==/com.google.android.webview-eZKrupClwVmgDmxWAn78Ag==/base.apk!/lib/arm64-v8a:/data/app/~~KzgKvUv1JwmzxHei_tsHXQ==/com.google.android.trichromelibrary_739004333-NHJfK8xUfQ5oC0LHEjEvPw==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand
+10-15 04:16:14.229 32319 32319 D nativeloader: Extending system_exposed_libraries: libhumantracking.arcsoft.so:libPortraitDistortionCorrection.arcsoft.so:libPortraitDistortionCorrectionCali.arcsoft.so:libface_landmark.arcsoft.so:libFacialStickerEngine.arcsoft.so:libveengine.arcsoft.so:liblow_light_hdr.arcsoft.so:libhigh_dynamic_range.arcsoft.so:libFacialAttributeDetection.arcsoft.so:libBeauty_v4.camera.samsung.so:libexifa.camera.samsung.so:libjpega.camera.samsung.so:libOpenCv.camera.samsung.so:libImageScreener.camera.samsung.so:libMyFilter.camera.samsung.so:libtensorflowLite.myfilter.camera.samsung.so:libtensorflowlite_inference_api.myfilter.camera.samsung.so:libEventFinder.camera.samsung.so:libHIDTSnapJNI.camera.samsung.so:libSmartScan.camera.samsung.so:libRectify.camera.samsung.so:libDocRectifyWrapper.camera.samsung.so:libUltraWideDistortionCorrection.camera.samsung.so:libWideDistortionCorrection.camera.samsung.so:libHpr_RecGAE_cvFeature_v1.0.camera.samsung.so:libHprFace_GAE_api.camera.samsung.so:libFace_Landmark_API.camera.samsung.so:libHprFace_GAE_jn
+10-15 04:16:14.235 32319 32319 D nativeloader: Configuring clns-7 for other apk /data/app/~~Z7EoFjMbPG94A6o-3Nb5UQ==/com.google.android.webview-eZKrupClwVmgDmxWAn78Ag==/base.apk. target_sdk_version=36, uses_libraries=, library_path=/data/app/~~Z7EoFjMbPG94A6o-3Nb5UQ==/com.google.android.webview-eZKrupClwVmgDmxWAn78Ag==/lib/arm64:/data/app/~~Z7EoFjMbPG94A6o-3Nb5UQ==/com.google.android.webview-eZKrupClwVmgDmxWAn78Ag==/base.apk!/lib/arm64-v8a:/data/app/~~KzgKvUv1JwmzxHei_tsHXQ==/com.google.android.trichromelibrary_739004333-NHJfK8xUfQ5oC0LHEjEvPw==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand
+10-15 04:16:14.262 32319 32319 I cr_WVCFactoryProvider: version=141.0.7390.43 (739004333) minSdkVersion=29 multiprocess=true packageId=127 splits=<none>
+10-15 04:16:14.267 32319 32319 D nativeloader: Load /data/app/~~KzgKvUv1JwmzxHei_tsHXQ==/com.google.android.trichromelibrary_739004333-NHJfK8xUfQ5oC0LHEjEvPw==/base.apk!/lib/arm64-v8a/libmonochrome_64.so using class loader ns clns-7 (caller=/data/app/~~Z7EoFjMbPG94A6o-3Nb5UQ==/com.google.android.webview-eZKrupClwVmgDmxWAn78Ag==/base.apk): ok
+10-15 04:16:14.270 32319 32319 D nativeloader: Load /system/lib64/libwebviewchromium_plat_support.so using class loader ns clns-7 (caller=/data/app/~~Z7EoFjMbPG94A6o-3Nb5UQ==/com.google.android.webview-eZKrupClwVmgDmxWAn78Ag==/base.apk): ok
+10-15 04:16:14.273 32319 32451 I chromium: [1015/041614.273216:INFO:android_webview/browser/variations/variations_seed_loader.cc:67] Failed to open file for reading.: No such file or directory (2)
+10-15 04:16:14.280 32319 32319 I cr_LibraryLoader: Successfully loaded native library
+10-15 04:16:14.281 32319 32319 I cr_CachingUmaRecorder: Flushed 14 samples from 14 histograms, 0 samples were dropped.
+10-15 04:16:14.286 32319 32319 I cr_CombinedPProvider: #registerProvider() provider:WV.ak@e3ae6e0 isPolicyCacheEnabled:false policyProvidersSize:0
+10-15 04:16:14.287 32319 32319 I cr_PolicyProvider: #setManagerAndSource() 0
+10-15 04:16:14.314 32319 32319 I cr_CombinedPProvider: #linkNativeInternal() 1
+10-15 04:16:14.315 32319 32319 D CompatibilityChangeReporter: Compat change id reported: 183155436; UID 10523; state: ENABLED
+10-15 04:16:14.316 32319 32319 I cr_AppResProvider: #getApplicationRestrictionsFromUserManager() Bundle[EMPTY_PARCEL]
+10-15 04:16:14.316 32319 32319 I cr_PolicyProvider: #notifySettingsAvailable() 0
+10-15 04:16:14.316 32319 32319 I cr_CombinedPProvider: #onSettingsAvailable() 0
+10-15 04:16:14.316 32319 32319 I cr_CombinedPProvider: #flushPolicies()
+10-15 04:16:14.376 32319 32319 W chromium: [WARNING:android_webview/browser/network_service/net_helpers.cc:143] HTTP Cache size is: 20971520
+10-15 04:16:14.394 32319 32319 D CompatibilityChangeReporter: Compat change id reported: 214741472; UID 10523; state: ENABLED
+10-15 04:16:14.428 32319 32319 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4736)] [android.net.ConnectivityManager.registerDefaultNetworkCallbackForUid(ConnectivityManager.java:5461)] [android.net.ConnectivityManager.registerDefaultNetworkCallback(ConnectivityManager.java:5428)] [WV.km1.e(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:37)] [WV.km1.a(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:1)] [org.chromium.android_webview.AwContentsLifecycleNotifier.onFirstWebViewCreated(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:19)] [J.N.JJ(Native Method)] [org.chromium.android_webview.AwContents.<init>(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:619)] [com.android.webview.chromium.k.run(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:163)] [WV.d23.run(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:13)] [org.chromium.base.task.PostTask.d(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:18)] [WV.e23.a(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:18)] [com.android.webview.chromium.WebViewChromiumFactoryProvider.a(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:3)] [com.android.webview.chromium.WebViewChromium.init(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:334)] [android.webkit.WebView.<init>(WebView.java:448)] [android.webkit.WebView.<init>(WebView.java:368)] [android.webkit.WebView.<init>(WebView.java:350)] [android.webkit.WebView.<init>(WebView.java:337)] [android.webkit.WebView.<init>(WebView.java:327)] [com.lagradost.cloudstream3.network.WebViewResolver$resolveUsingWebView$6.invokeSuspend(WebViewResolver.android.kt:122)] [com.lagradost.cloudstream3.network.WebViewResolver$resolveUsingWebView$6.invoke(Unknown Source:8)] [com.lagradost.cloudstream3.network.WebViewResolver$resolveUsingWebView$6.invoke(Unknown Source:4)] [com.lagradost.cloudstream3.utils.Coroutines$main$1.invokeSuspend(Coroutines.kt:13)] [com.lagradost.cloudstream3.utils.Coroutines$main$1.invoke(Unknown Source:8)] [com.lagradost.cloudstream3.utils.Coroutines$main$1.invoke(Unknown Source:4)] [com.lagradost.cloudstream3.mvvm.ArchComponentExtKt$launchSafe$obj$1.invokeSuspend(ArchComponentExt.kt:143)] [kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)] [kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:100)]
+10-15 04:16:14.433 32319 32319 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4736)] [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4904)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5321)] [WV.km1.e(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:86)] [WV.km1.a(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:1)] [org.chromium.android_webview.AwContentsLifecycleNotifier.onFirstWebViewCreated(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:19)] [J.N.JJ(Native Method)] [org.chromium.android_webview.AwContents.<init>(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:619)] [com.android.webview.chromium.k.run(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:163)] [WV.d23.run(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:13)] [org.chromium.base.task.PostTask.d(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:18)] [WV.e23.a(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:18)] [com.android.webview.chromium.WebViewChromiumFactoryProvider.a(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:3)] [com.android.webview.chromium.WebViewChromium.init(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:334)] [android.webkit.WebView.<init>(WebView.java:448)] [android.webkit.WebView.<init>(WebView.java:368)] [android.webkit.WebView.<init>(WebView.java:350)] [android.webkit.WebView.<init>(WebView.java:337)] [android.webkit.WebView.<init>(WebView.java:327)] [com.lagradost.cloudstream3.network.WebViewResolver$resolveUsingWebView$6.invokeSuspend(WebViewResolver.android.kt:122)] [com.lagradost.cloudstream3.network.WebViewResolver$resolveUsingWebView$6.invoke(Unknown Source:8)] [com.lagradost.cloudstream3.network.WebViewResolver$resolveUsingWebView$6.invoke(Unknown Source:4)] [com.lagradost.cloudstream3.utils.Coroutines$main$1.invokeSuspend(Coroutines.kt:13)] [com.lagradost.cloudstream3.utils.Coroutines$main$1.invoke(Unknown Source:8)] [com.lagradost.cloudstream3.utils.Coroutines$main$1.invoke(Unknown Source:4)] [com.lagradost.cloudstream3.mvvm.ArchComponentExtKt$launchSafe$obj$1.invokeSuspend(ArchComponentExt.kt:143)] [kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)] [kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:100)]
+10-15 04:16:14.482 32319 32472 W cr_media: BLUETOOTH_CONNECT permission is missing.
+10-15 04:16:14.486 32319 32491 D vulkan  : searching for layers in '/data/app/~~X_Ckha-AUADMdm5I5WWHYg==/com.lagradost.cloudstream3-gV0Clum_p4x0OvCWiSyt1A==/lib/arm64'
+10-15 04:16:14.486 32319 32472 W cr_media: getBluetoothAdapter() requires BLUETOOTH permission
+10-15 04:16:14.486 32319 32472 W cr_media: registerBluetoothIntentsIfNeeded: Requires BLUETOOTH permission
+10-15 04:16:14.487 32319 32491 D vulkan  : searching for layers in '/data/app/~~X_Ckha-AUADMdm5I5WWHYg==/com.lagradost.cloudstream3-gV0Clum_p4x0OvCWiSyt1A==/base.apk!/lib/arm64-v8a'
+10-15 04:16:14.494 32319 32460 I System.out: Loading WebView URL: https://tv6.egydead.live/series-category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d8%b3%d9%8a%d9%88%d9%8a%d8%a9/
+10-15 04:16:14.514 32319 32494 I CameraManagerGlobal: Connecting to camera service
+10-15 04:16:14.521 32319 32494 D VendorTagDescriptor: addVendorDescriptor: vendor tag id 14172875900359437128 added
+10-15 04:16:14.526 32319 32447 I CameraManagerGlobal: Camera 0 facing CAMERA_FACING_BACK state now CAMERA_STATE_CLOSED for client com.google.android.googlequicksearchbox API Level 2User Id 0
+10-15 04:16:14.527 32319 32494 I CameraManager: registerAvailabilityCallback: Is device callback = false
+10-15 04:16:14.527 32319 32494 I CameraManagerGlobal: postSingleUpdate device: camera id 0 status STATUS_PRESENT
+10-15 04:16:14.527 32319 32494 I CameraManagerGlobal: postSingleUpdate device: camera id 1 status STATUS_PRESENT
+10-15 04:16:14.527 32319 32494 I CameraManagerGlobal: postSingleUpdate device: camera id 2 status STATUS_PRESENT
+10-15 04:16:14.527 32319 32494 I CameraManagerGlobal: postSingleUpdate device: camera id 3 status STATUS_PRESENT
+10-15 04:16:14.527 32319 32447 I CameraManagerGlobal: Camera 1 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client com.samsung.android.smartface API Level 2User Id 0
+10-15 04:16:14.528 32319 32447 I CameraManagerGlobal: Camera 2 facing CAMERA_FACING_BACK state now CAMERA_STATE_CLOSED for client com.android.chrome API Level 2User Id 0
+10-15 04:16:14.528 32319 32447 I CameraManagerGlobal: Camera 20 facing CAMERA_FACING_BACK state now CAMERA_STATE_CLOSED for client android.system API Level 2User Id 0
+10-15 04:16:14.528 32319 32447 I CameraManagerGlobal: Camera 23 facing CAMERA_FACING_BACK state now CAMERA_STATE_CLOSED for client android.system API Level 2User Id 0
+10-15 04:16:14.529 32319 32447 I CameraManagerGlobal: Camera 3 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client android.system API Level 2User Id 0
+10-15 04:16:14.529 32319 32447 I CameraManagerGlobal: Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client android.system API Level 2User Id 0
+10-15 04:16:14.530 32319 32447 I CameraManagerGlobal: Camera 50 facing CAMERA_FACING_BACK state now CAMERA_STATE_CLOSED for client android.system API Level 2User Id 0
+10-15 04:16:14.530 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a-%d8%a7%d9%88%d9%86%d9%84%d8%a7%d9%8a%d9%86/
+10-15 04:16:14.530 32319 32447 I CameraManagerGlobal: Camera 52 facing CAMERA_FACING_BACK state now CAMERA_STATE_CLOSED for client android.system API Level 2User Id 0
+10-15 04:16:14.530 32319 32447 I CameraManagerGlobal: Camera 54 facing CAMERA_FACING_BACK state now CAMERA_STATE_CLOSED for client android.system API Level 2User Id 0
+10-15 04:16:14.544 32319 32461 I System.out: Loading WebView URL: https://tv6.egydead.live/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%b3%d9%8a%d9%88%d9%8a%d8%a9/
+10-15 04:16:14.585 32319 32343 D OpenGLRenderer: setSurface called with nullptr
+10-15 04:16:14.585 32319 32343 D OpenGLRenderer: setSurface() destroyed EGLSurface
+10-15 04:16:14.585 32319 32343 D OpenGLRenderer: destroyEglSurface
+10-15 04:16:14.586 32319 32319 I ViewRootImpl@7f2c270[Toast]: dispatchDetachedFromWindow
+10-15 04:16:14.594 32319 32319 D InputTransport: Input channel destroyed: '712636 ', fd=175
+10-15 04:16:14.673 32319 32486 W AudioCapabilities: Unsupported mime audio/x-ima
+10-15 04:16:14.673 32319 32486 W AudioCapabilities: Unsupported mime audio/mpeg-L1
+10-15 04:16:14.674 32319 32486 W AudioCapabilities: Unsupported mime audio/mpeg-L2
+10-15 04:16:14.674 32319 32486 W VideoCapabilities: Unsupported mime video/mp43
+10-15 04:16:14.674 32319 32486 W VideoCapabilities: Unsupported mime video/wvc1
+10-15 04:16:14.674 32319 32486 W VideoCapabilities: Unsupported mime video/x-ms-wmv
+10-15 04:16:14.674 32319 32486 W AudioCapabilities: Unsupported mime audio/x-ms-wma
+10-15 04:16:14.674 32319 32486 W VideoCapabilities: Unsupported mime video/x-ms-wmv7
+10-15 04:16:14.674 32319 32486 W VideoCapabilities: Unsupported mime video/x-ms-wmv8
+10-15 04:16:14.686 32319 32486 W VideoCapabilities: Unrecognized profile/level 32768/256 for video/mp4v-es
+10-15 04:16:14.710 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=98ec28208f63212d
+10-15 04:16:14.718 32319 32460 I System.out: Loading WebView URL: https://tv6.egydead.live/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=98ec28208f66212d
+10-15 04:16:14.782 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=98ec28211f9f212d
+10-15 04:16:14.971 32319 32459 I System.out: Loading WebView URL: https://challenges.cloudflare.com/turnstile/v0/g/e9c9e9d67513/api.js?onload=nleNK4&render=explicit
+10-15 04:16:15.032 32319 32460 I System.out: Loading WebView URL: https://tv6.egydead.live/favicon.ico
+10-15 04:16:15.081 32319 32461 I System.out: Loading WebView URL: https://challenges.cloudflare.com/turnstile/v0/g/e9c9e9d67513/api.js?onload=nleNK4&render=explicit
+10-15 04:16:15.132 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/favicon.ico
+10-15 04:16:15.140 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/favicon.ico
+10-15 04:16:15.152 32319 32459 I System.out: Loading WebView URL: https://challenges.cloudflare.com/turnstile/v0/g/e9c9e9d67513/api.js?onload=nleNK4&render=explicit
+10-15 04:16:15.311 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/cdn-cgi/challenge-platform/h/g/flow/ov1/590219057:1760099306:vISi_bGz35Eg8APS3VUgRG2qY1yRk8PjQmfY2qEzQ4o/98ec28208f66212d/FxOinRDG2lnt.NinA4owGC4mFdm8K6dHZtkpDYeLAF4-1760498176-1.2.1.1-dlfZ2kDrNae.YaeRWiykzGHhsLUnJa0.y8Xb3_Gj8bYb_JtbI74xNV9zAc_BpgVq
+10-15 04:16:15.416 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/cdn-cgi/challenge-platform/h/g/flow/ov1/590219057:1760099306:vISi_bGz35Eg8APS3VUgRG2qY1yRk8PjQmfY2qEzQ4o/98ec28211f9f212d/pZceZEN6jdMsBzvo1lciwL3RPuyA.J50eT1Qj78UJ.A-1760498176-1.2.1.1-_5MKbM6_IVb3HGC.wvl.s36FSui1frH35FKKWRjAj0OQAIbZ5eEM9PVrvOZo0Mk3
+10-15 04:16:15.481 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/cdn-cgi/challenge-platform/h/g/flow/ov1/590219057:1760099306:vISi_bGz35Eg8APS3VUgRG2qY1yRk8PjQmfY2qEzQ4o/98ec28208f63212d/KTO6i5zjjJijZfDh2.eet_dtzMHhTX1FGA4pqUMT97U-1760498176-1.2.1.1-Zk5zI6fjmz5mTYGkQ7OjUTNzjKXEr0xi51w9SQdxcNr1UUWmjUDg9fvihRxBH.eV
+10-15 04:16:16.131 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/favicon.ico
+10-15 04:16:16.140 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/favicon.ico
+10-15 04:16:16.140 32319 32460 I System.out: Loading WebView URL: https://tv6.egydead.live/favicon.ico
+10-15 04:16:20.783 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/cdn-cgi/challenge-platform/h/g/flow/ov1/590219057:1760099306:vISi_bGz35Eg8APS3VUgRG2qY1yRk8PjQmfY2qEzQ4o/98ec28208f66212d/FxOinRDG2lnt.NinA4owGC4mFdm8K6dHZtkpDYeLAF4-1760498176-1.2.1.1-dlfZ2kDrNae.YaeRWiykzGHhsLUnJa0.y8Xb3_Gj8bYb_JtbI74xNV9zAc_BpgVq
+10-15 04:16:20.997 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/cdn-cgi/challenge-platform/h/g/flow/ov1/590219057:1760099306:vISi_bGz35Eg8APS3VUgRG2qY1yRk8PjQmfY2qEzQ4o/98ec28211f9f212d/pZceZEN6jdMsBzvo1lciwL3RPuyA.J50eT1Qj78UJ.A-1760498176-1.2.1.1-_5MKbM6_IVb3HGC.wvl.s36FSui1frH35FKKWRjAj0OQAIbZ5eEM9PVrvOZo0Mk3
+10-15 04:16:21.175 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/cdn-cgi/challenge-platform/h/g/flow/ov1/590219057:1760099306:vISi_bGz35Eg8APS3VUgRG2qY1yRk8PjQmfY2qEzQ4o/98ec28208f63212d/KTO6i5zjjJijZfDh2.eet_dtzMHhTX1FGA4pqUMT97U-1760498176-1.2.1.1-Zk5zI6fjmz5mTYGkQ7OjUTNzjKXEr0xi51w9SQdxcNr1UUWmjUDg9fvihRxBH.eV
+10-15 04:16:31.342 32319 32335 I CameraManagerGlobal: postSingleUpdate device: camera id 1 status STATUS_NOT_AVAILABLE
+10-15 04:16:31.363 32319 32335 I CameraManagerGlobal: Camera 1 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPEN for client com.samsung.android.smartface API Level 2User Id 0
+10-15 04:16:31.484 32319 32335 I CameraManagerGlobal: Camera 1 facing CAMERA_FACING_FRONT state now CAMERA_STATE_ACTIVE for client com.samsung.android.smartface API Level 2User Id 0
+10-15 04:16:32.137 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 0
+10-15 04:16:32.227 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 1
+10-15 04:16:32.412 32319 32407 I CameraManagerGlobal: Camera 1 facing CAMERA_FACING_FRONT state now CAMERA_STATE_IDLE for client com.samsung.android.smartface API Level 2User Id 0
+10-15 04:16:32.506 32319 32407 I CameraManagerGlobal: postSingleUpdate device: camera id 1 status STATUS_PRESENT
+10-15 04:16:32.510 32319 32407 I CameraManagerGlobal: Camera 1 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client com.samsung.android.smartface API Level 2User Id 0
+10-15 04:16:36.091 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%b3%d9%8a%d9%88%d9%8a%d8%a9/
+10-15 04:16:36.220 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=98ec28a6ee5c212d
+10-15 04:16:36.261 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/series-category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d8%b3%d9%8a%d9%88%d9%8a%d8%a9/
+10-15 04:16:36.360 32319 32460 I System.out: Loading WebView URL: https://challenges.cloudflare.com/turnstile/v0/g/e9c9e9d67513/api.js?onload=nleNK4&render=explicit
+10-15 04:16:36.468 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/favicon.ico
+10-15 04:16:36.492 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=98ec28a7ef26212d
+10-15 04:16:36.664 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/cdn-cgi/challenge-platform/h/g/flow/ov1/590219057:1760099306:vISi_bGz35Eg8APS3VUgRG2qY1yRk8PjQmfY2qEzQ4o/98ec28a6ee5c212d/iwx0bIOjgP6ABDA.WZ55S2csMYHg7qILkcdTefaKt80-1760498197-1.2.1.1-t4iKvpz7ZpAjp4RWZvJES4TLzOr5PeKGFj67W51Tc7s1KjbD4nL6KV8MObV1LBQW
+10-15 04:16:36.686 32319 32460 I System.out: Loading WebView URL: https://challenges.cloudflare.com/turnstile/v0/g/e9c9e9d67513/api.js?onload=nleNK4&render=explicit
+10-15 04:16:36.781 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/favicon.ico
+10-15 04:16:37.073 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/cdn-cgi/challenge-platform/h/g/flow/ov1/590219057:1760099306:vISi_bGz35Eg8APS3VUgRG2qY1yRk8PjQmfY2qEzQ4o/98ec28a7ef26212d/R5vRSsnVzDZxC_C9oExlCv2foWEnd5fDn2tlz_QFB28-1760498197-1.2.1.1-ye_Ujm88hxLUL7HC.fVZ4Ot4B90ylEICHFne_GQ9WFeP7SpODY3nmvEx1lHfxxGs
+10-15 04:16:37.794 32319 32338 W st.cloudstream3: Checksum mismatch for dex EgyDead.-124080901.cs3
+10-15 04:16:37.794 32319 32338 W st.cloudstream3: Could not merge the profile. Clearing the profile data.
+10-15 04:16:37.821 32319 32338 W st.cloudstream3: Failed to flush directory /data/misc/profiles/cur/0/com.lagradost.cloudstream3: Permission denied
+10-15 04:16:42.138 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/cdn-cgi/challenge-platform/h/g/flow/ov1/590219057:1760099306:vISi_bGz35Eg8APS3VUgRG2qY1yRk8PjQmfY2qEzQ4o/98ec28a6ee5c212d/iwx0bIOjgP6ABDA.WZ55S2csMYHg7qILkcdTefaKt80-1760498197-1.2.1.1-t4iKvpz7ZpAjp4RWZvJES4TLzOr5PeKGFj67W51Tc7s1KjbD4nL6KV8MObV1LBQW
+10-15 04:16:42.422 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/cdn-cgi/challenge-platform/h/g/flow/ov1/590219057:1760099306:vISi_bGz35Eg8APS3VUgRG2qY1yRk8PjQmfY2qEzQ4o/98ec28a7ef26212d/R5vRSsnVzDZxC_C9oExlCv2foWEnd5fDn2tlz_QFB28-1760498197-1.2.1.1-ye_Ujm88hxLUL7HC.fVZ4Ot4B90ylEICHFne_GQ9WFeP7SpODY3nmvEx1lHfxxGs
+10-15 04:16:49.443 32319 32337 I CameraManagerGlobal: postSingleUpdate device: camera id 1 status STATUS_NOT_AVAILABLE
+10-15 04:16:49.487 32319 32447 I CameraManagerGlobal: Camera 1 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPEN for client com.samsung.android.smartface API Level 2User Id 0
+10-15 04:16:49.588 32319 32447 I CameraManagerGlobal: Camera 1 facing CAMERA_FACING_FRONT state now CAMERA_STATE_ACTIVE for client com.samsung.android.smartface API Level 2User Id 0
+10-15 04:16:50.527 32319 32337 I CameraManagerGlobal: Camera 1 facing CAMERA_FACING_FRONT state now CAMERA_STATE_IDLE for client com.samsung.android.smartface API Level 2User Id 0
+10-15 04:16:50.656 32319 32407 I CameraManagerGlobal: postSingleUpdate device: camera id 1 status STATUS_PRESENT
+10-15 04:16:50.658 32319 32407 I CameraManagerGlobal: Camera 1 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client com.samsung.android.smartface API Level 2User Id 0
+10-15 04:16:52.660 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 0
+10-15 04:16:52.802 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 1
+10-15 04:16:52.847 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a-%d8%a7%d9%88%d9%86%d9%84%d8%a7%d9%8a%d9%86/
+10-15 04:16:52.953 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=98ec290f9e0e212d
+10-15 04:16:53.065 32319 32330 I st.cloudstream3: Background concurrent copying GC freed 9779KB AllocSpace bytes, 34(932KB) LOS objects, 49% free, 14MB/29MB, paused 418us,163us total 150.432ms
+10-15 04:16:53.068 32319 32343 D OpenGLRenderer: setSurface called with nullptr
+10-15 04:16:53.076 32319 32332 W System  : A resource failed to call close. 
+10-15 04:16:53.085 32319 32460 I System.out: Loading WebView URL: https://challenges.cloudflare.com/turnstile/v0/g/e9c9e9d67513/api.js?onload=nleNK4&render=explicit
+10-15 04:16:53.181 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/favicon.ico
+10-15 04:16:53.358 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/cdn-cgi/challenge-platform/h/g/flow/ov1/590219057:1760099306:vISi_bGz35Eg8APS3VUgRG2qY1yRk8PjQmfY2qEzQ4o/98ec290f9e0e212d/80qtMDHUWpgrJyOcYSKcltcb2vsVV4sv5o3c44qHtZc-1760498214-1.2.1.1-1O7yxHDM2zNHmsxKp1r3WtD4Dy5N5Bggu8lBrf0T8Pjf.RM2ZzcQmlrVFEggGucE
+10-15 04:16:57.234 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%b3%d9%8a%d9%88%d9%8a%d8%a9/
+10-15 04:16:57.436 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=98ec292b0a29212d
+10-15 04:16:57.565 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/series-category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d8%b3%d9%8a%d9%88%d9%8a%d8%a9/
+10-15 04:16:57.642 32319 32460 I System.out: Loading WebView URL: https://challenges.cloudflare.com/turnstile/v0/g/e9c9e9d67513/api.js?onload=nleNK4&render=explicit
+10-15 04:16:57.741 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/favicon.ico
+10-15 04:16:57.767 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=98ec292d3ad1212d
+10-15 04:16:57.920 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/cdn-cgi/challenge-platform/h/g/flow/ov1/590219057:1760099306:vISi_bGz35Eg8APS3VUgRG2qY1yRk8PjQmfY2qEzQ4o/98ec292b0a29212d/3wR0DuWRchGYEnDRP9Ag6_.ESY5ZNdQ4IB0T7RZi3GU-1760498218-1.2.1.1-1Nm1OsYAP4GN7Q8t5GUYGqRpLJHnS6_7C.vl3jseWIiyp2b6C4rZ74R4mbHNsFix
+10-15 04:16:57.945 32319 32460 I System.out: Loading WebView URL: https://challenges.cloudflare.com/turnstile/v0/g/e9c9e9d67513/api.js?onload=nleNK4&render=explicit
+10-15 04:16:58.057 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/favicon.ico
+10-15 04:16:58.397 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/cdn-cgi/challenge-platform/h/g/flow/ov1/590219057:1760099306:vISi_bGz35Eg8APS3VUgRG2qY1yRk8PjQmfY2qEzQ4o/98ec292d3ad1212d/3WQ4kEnDpT9Q3YevS.EgFIUSWvp_mE1x7nbVnjeGSqM-1760498219-1.2.1.1-eRfw.0b7tHCVsAJztjhbiqxyksg6AIdoqeACS2H6NJewpEy5oviu4aZzo1EYgRDS
+10-15 04:16:58.849 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/cdn-cgi/challenge-platform/h/g/flow/ov1/590219057:1760099306:vISi_bGz35Eg8APS3VUgRG2qY1yRk8PjQmfY2qEzQ4o/98ec290f9e0e212d/80qtMDHUWpgrJyOcYSKcltcb2vsVV4sv5o3c44qHtZc-1760498214-1.2.1.1-1O7yxHDM2zNHmsxKp1r3WtD4Dy5N5Bggu8lBrf0T8Pjf.RM2ZzcQmlrVFEggGucE
+10-15 04:17:03.375 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/cdn-cgi/challenge-platform/h/g/flow/ov1/590219057:1760099306:vISi_bGz35Eg8APS3VUgRG2qY1yRk8PjQmfY2qEzQ4o/98ec292b0a29212d/3wR0DuWRchGYEnDRP9Ag6_.ESY5ZNdQ4IB0T7RZi3GU-1760498218-1.2.1.1-1Nm1OsYAP4GN7Q8t5GUYGqRpLJHnS6_7C.vl3jseWIiyp2b6C4rZ74R4mbHNsFix
+10-15 04:17:03.762 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/cdn-cgi/challenge-platform/h/g/flow/ov1/590219057:1760099306:vISi_bGz35Eg8APS3VUgRG2qY1yRk8PjQmfY2qEzQ4o/98ec292d3ad1212d/3WQ4kEnDpT9Q3YevS.EgFIUSWvp_mE1x7nbVnjeGSqM-1760498219-1.2.1.1-eRfw.0b7tHCVsAJztjhbiqxyksg6AIdoqeACS2H6NJewpEy5oviu4aZzo1EYgRDS
+10-15 04:17:06.645 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 0
+10-15 04:17:09.465 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 1
+10-15 04:17:10.462 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 0
+10-15 04:17:11.746 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 1
+10-15 04:17:12.541 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 0
+10-15 04:17:12.730 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 1
+10-15 04:17:13.474 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 0
+10-15 04:17:13.960 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a-%d8%a7%d9%88%d9%86%d9%84%d8%a7%d9%8a%d9%86/
+10-15 04:17:14.044 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 1
+10-15 04:17:14.129 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=98ec29939fb4212d
+10-15 04:17:14.293 32319 32460 I System.out: Loading WebView URL: https://challenges.cloudflare.com/turnstile/v0/g/e9c9e9d67513/api.js?onload=nleNK4&render=explicit
+10-15 04:17:14.416 32319 32459 I System.out: Loading WebView URL: https://tv6.egydead.live/favicon.ico
+10-15 04:17:14.492 32319 32383 I System.out: Web-view timeout after 60s
+10-15 04:17:14.496 32319 32391 I System.out: Web-view timeout after 60s
+10-15 04:17:14.496 32319 32319 I System.out: Destroyed webview
+10-15 04:17:14.496 32319 32390 I System.out: Web-view timeout after 60s
+10-15 04:17:14.525 32319 32319 I System.out: Destroyed webview
+10-15 04:17:14.535 32319 32319 I System.out: Destroyed webview
+10-15 04:17:14.536 32319 32319 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5571)] [WV.lm1.h(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:17)] [WV.mj.b(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:3)] [org.chromium.android_webview.AwContentsLifecycleNotifier.onLastWebViewDestroyed(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:19)] [J.N.VJ(Native Method)] [WV.ag.run(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:4)] [WV.kw.handleMessage(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:55)] [WV.mw.a(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:25)] [org.chromium.android_webview.AwContents.l(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:33)] [WV.gf.run(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:10)] [org.chromium.base.task.TaskRunnerImpl.runTask(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:31)]
+10-15 04:17:14.537 32319 32319 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5571)] [WV.lm1.h(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:26)] [WV.mj.b(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:3)] [org.chromium.android_webview.AwContentsLifecycleNotifier.onLastWebViewDestroyed(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:19)] [J.N.VJ(Native Method)] [WV.ag.run(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:4)] [WV.kw.handleMessage(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:55)] [WV.mw.a(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:25)] [org.chromium.android_webview.AwContents.l(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:33)] [WV.gf.run(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:10)] [org.chromium.base.task.TaskRunnerImpl.runTask(chromium-TrichromeWebViewGoogle6432.aab-stable-739004333:31)]
+10-15 04:17:14.541 32319 32319 E chromium: [ERROR:android_webview/browser/aw_browser_terminator.cc:165] Renderer process (32456) crash detected (code -1).
+10-15 04:17:14.600 32319 32381 D EgyDeadProvider: getMainPage HTML received. Title: Just a moment...
+10-15 04:17:14.601 32319 32375 D EgyDeadProvider: getMainPage HTML received. Title: Just a moment...
+10-15 04:17:14.601 32319 32381 D EgyDeadProvider: Found 0 items on the main page for 'أفلام أجنبي'.
+10-15 04:17:14.601 32319 32381 W EgyDeadProvider: No items found. The CSS selector 'li.movieItem' might be incorrect or the page is empty.
+10-15 04:17:14.601 32319 32375 D EgyDeadProvider: Found 0 items on the main page for 'مسلسلات اسيوية'.
+10-15 04:17:14.601 32319 32375 W EgyDeadProvider: No items found. The CSS selector 'li.movieItem' might be incorrect or the page is empty.
+10-15 04:17:14.602 32319 32371 D EgyDeadProvider: getMainPage HTML received. Title: Just a moment...
+10-15 04:17:14.603 32319 32371 D EgyDeadProvider: Found 0 items on the main page for 'أفلام آسيوية'.
+10-15 04:17:14.603 32319 32371 W EgyDeadProvider: No items found. The CSS selector 'li.movieItem' might be incorrect or the page is empty.
+10-15 04:17:20.813 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 0
+10-15 04:17:20.902 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 1
+10-15 04:17:20.936 32319 32319 I IMM_LC  : hsifw() - flag : 0
+10-15 04:17:20.936 32319 32319 I IMM_LC  : hsifw() - mService.hideSoftInput
+10-15 04:17:21.056 32319 32319 I PLG     : updatePluginList = https://raw.githubusercontent.com/adamwolker21/DZ/refs/heads/master/repo.json
+10-15 04:17:21.056 32319 32319 I PLG     : getPlugins = https://raw.githubusercontent.com/adamwolker21/DZ/refs/heads/master/repo.json
+10-15 04:17:22.182 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 0
+10-15 04:17:22.276 32319 32319 D WindowOnBackDispatcher: onBackInvoked, viewRoot=ViewRootImpl@7f2c270[Toast], callback=androidx.activity.OnBackPressedDispatcher$Api33Impl$$ExternalSyntheticLambda0@4ed6942
+10-15 04:17:22.288 32319 32319 I IMM_LC  : hsifw() - flag : 0
+10-15 04:17:22.288 32319 32319 I IMM_LC  : hsifw() - mService.hideSoftInput
+10-15 04:17:23.215 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 0
+10-15 04:17:23.324 32319 32319 D WindowOnBackDispatcher: onBackInvoked, viewRoot=ViewRootImpl@7f2c270[Toast], callback=androidx.activity.OnBackPressedDispatcher$Api33Impl$$ExternalSyntheticLambda0@4ed6942
+10-15 04:17:23.336 32319 32319 I IMM_LC  : hsifw() - flag : 0
+10-15 04:17:23.336 32319 32319 I IMM_LC  : hsifw() - mService.hideSoftInput
+10-15 04:17:23.348 32319 32319 D ScrollView: initGoToTop
+10-15 04:17:23.375 32319 32319 E CoilImgLoader: Error loading image: coil3.request.NullRequestDataException: The request's data is null.
+10-15 04:17:23.385 32319 32319 D ScrollView:  onsize change changed 
+10-15 04:17:24.232 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 0
+10-15 04:17:24.298 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 1
+10-15 04:17:24.301 32319 32319 I NavComponent: Navigating to fragment: 2131361884
+10-15 04:17:24.305 32319 32319 I IMM_LC  : hsifw() - flag : 0
+10-15 04:17:24.306 32319 32319 I IMM_LC  : hsifw() - mService.hideSoftInput
+10-15 04:17:25.044 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 0
+10-15 04:17:25.118 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 1
+10-15 04:17:26.117 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 0
+10-15 04:17:26.174 32319 32319 I ViewRootImpl@a5591d[MainActivity]: ViewPostIme pointer 1
+10-15 04:17:26.203 32319 32319 I Dialog  : mIsDeviceDefault = false, mIsSamsungBasicInteraction = false, isMetaDataInActivity = false
+10-15 04:17:26.208 32319 32319 I DecorView: [INFO] isPopOver=false config=false
+10-15 04:17:26.208 32319 32319 I DecorView: updateCaptionType: isFloating=true isApplication=true hasWindowDecorCaption=false this=DecorView@3db8fbc[]
+10-15 04:17:26.208 32319 32319 D DecorView: setCaptionType = 0, this = DecorView@3db8fbc[]
+10-15 04:17:26.209 32319 32319 I DecorView: setWindowBackground: isPopOver=false color=ff010101 d=android.graphics.drawable.InsetDrawable@a59229a
+10-15 04:17:26.227 32319 32319 D ScrollView: initGoToTop
+10-15 04:17:26.242 32319 32343 D NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+10-15 04:17:26.242 32319 32319 I DecorView: onImmersiveModeChanged: isStatusBarHidden=true
+10-15 04:17:26.249 32319 32319 D InsetsController: onStateChanged: InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2400), mDisplayCutout=DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2400 physicalDisplayWidth=1080 physicalDisplayHeight=2400 density={2.625} cutoutSpec={M 0,0 M 0,12.25101276465640 a 10.60613009248640,10.60613009248640 0 1,0 0,21.21226018497290 a 10.60613009248640,10.60613009248640 0 1,0 0,-21.21226018497290 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=84, center=Point(84, 84)}, RoundedCorner{position=TopRight, radius=84, center=Point(996, 84)}, RoundedCorner{position=BottomRight, radius=84, center=Point(996, 2316)}, RoundedCorner{position=BottomLeft, radius=84, center=Point(84, 2316)}]}  mRoundedCornerFrame=Rect(0, 0 - 1080, 2400), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(964, 0 - 1080, 87) rotation=0}, mSources= { InsetsSource: {mType=ITYPE_STATUS_BAR, mFrame=[0,0][1080,88], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_NAVIGATION_BAR, mFrame=[0,2361][1080,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_LEFT_GESTURES, mFrame=[0,0][130,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_RIGHT_GESTURES, mFrame=[950,0][1080,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_TOP_MANDATORY_GESTURES, mFrame=[0,0][1080,120], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_BOTTOM_MANDATORY_GESTURES, mFrame=[0,2316][1080,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_LEFT_DISPLAY_CUTOUT, mFrame=[0,0][-100000,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_TOP_DISPLAY_CUTOUT, mFrame=[0,0][1080,88], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_RIGHT_DISPLAY_CUTOUT, mFrame=[100000,0][1080,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_BOTTOM_DISPLAY_CUTOUT, mFrame=[0,100000][1080,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_TOP_TAPPABLE_ELEMENT, mFrame=[0,0][1080,88], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_BOTTOM_TAPPABLE_ELEMENT, mFrame=[0,0][0,0], mVisible=true, mInsetsRoundedCornerFrame=false} } host=com.lagradost.cloudstream3/com.lagradost.cloudstream3.MainActivity from=android.view.ViewRootImpl.setView:1732
+10-15 04:17:26.250 32319 32319 I ViewRootImpl@427d231[MainActivity]: setView = com.android.internal.policy.DecorView@3db8fbc TM=true
