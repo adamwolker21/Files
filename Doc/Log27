@@ -1,0 +1,672 @@
+--------- beginning of main
+10-16 02:17:34.687 20102 20102 D InputTransport: Input channel destroyed: 'f3866d8', fd=119
+10-16 02:17:34.725 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 1 0
+10-16 02:17:34.725 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0x7b5dd28000}
+10-16 02:17:34.729 20102 20102 D InputMethodManager: startInputInner - Id : 0
+10-16 02:17:34.729 20102 20102 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+10-16 02:17:35.477 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 0
+10-16 02:17:35.535 20102 20102 D WindowOnBackDispatcher: onBackInvoked, viewRoot=ViewRootImpl@dcf8e80[MainActivity], callback=androidx.activity.OnBackPressedDispatcher$Api33Impl$$ExternalSyntheticLambda0@f10226c
+10-16 02:17:35.547 20102 20102 I IMM_LC  : hsifw() - flag : 0
+10-16 02:17:35.547 20102 20102 I IMM_LC  : hsifw() - mService.hideSoftInput
+10-16 02:17:35.554 20102 20102 D ScrollView: initGoToTop
+10-16 02:17:35.587 20102 20102 E CoilImgLoader: Error loading image: coil3.request.NullRequestDataException: The request's data is null.
+10-16 02:17:35.601 20102 20102 D ScrollView:  onsize change changed 
+10-16 02:17:36.434 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 0
+10-16 02:17:36.484 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 1
+10-16 02:17:36.488 20102 20102 I NavComponent: Navigating to fragment: 2131361879
+10-16 02:17:36.493 20102 20102 I IMM_LC  : hsifw() - flag : 0
+10-16 02:17:36.493 20102 20102 I IMM_LC  : hsifw() - mService.hideSoftInput
+10-16 02:17:37.585 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 0
+10-16 02:17:37.641 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 1
+10-16 02:17:37.668 20102 20102 I IMM_LC  : hsifw() - flag : 0
+10-16 02:17:37.668 20102 20102 I IMM_LC  : hsifw() - mService.hideSoftInput
+10-16 02:17:37.814 20102 20102 I PLG     : updatePluginList = https://raw.githubusercontent.com/adamwolker21/TestPlugins/refs/heads/master/repo.json
+10-16 02:17:37.814 20102 20102 I PLG     : getPlugins = https://raw.githubusercontent.com/adamwolker21/TestPlugins/refs/heads/master/repo.json
+10-16 02:17:37.974 20102 20110 W st.cloudstream3: Missing inline cache for java.lang.Object com.fasterxml.jackson.module.kotlin.KotlinValueInstantiator.createFromObjectWith(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.deser.SettableBeanProperty[], com.fasterxml.jackson.databind.deser.impl.PropertyValueBuffer)
+10-16 02:17:37.975 20102 20110 W st.cloudstream3: Missing inline cache for java.lang.Object com.fasterxml.jackson.module.kotlin.KotlinValueInstantiator.createFromObjectWith(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.deser.SettableBeanProperty[], com.fasterxml.jackson.databind.deser.impl.PropertyValueBuffer)
+10-16 02:17:38.099 20102 20161 D VotingApi: Requesting: https://counterapi.com/api/cs-raw.githubusercontent.com-adamwolker21-TestPlugins/vote/1faa642fe5e758ed3f1552dfe51f95ba48254ee289a6f2e93a139bd7cecf3ded?readOnly=true
+10-16 02:17:38.686 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 0
+10-16 02:17:38.766 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 1
+10-16 02:17:38.780 20102 20159 I PLG     : handlePluginAction = https://raw.githubusercontent.com/adamwolker21/TestPlugins/refs/heads/master/repo.json, (https://raw.githubusercontent.com/adamwolker21/TestPlugins/refs/heads/master/repo.json, SitePlugin(url=https://raw.githubusercontent.com/adamwolker21/TestPlugins/builds/Asia2tv.cs3, status=1, version=37, apiVersion=1, name=Asia2tv, internalName=Asia2tv, authors=[adamwolker21], description=Asia2TV Kdrama Cdrama, repositoryUrl=https://github.com/adamwolker21/TestPlugins, tvTypes=[TvSeries, Movie, AsianDrama], language=ar, iconUrl=https://asia2tv.com/frontend/default/assets/images/logo.png?ver=1.2, fileSize=19874)), false
+10-16 02:17:38.781 20102 20159 D PluginManager: Downloading plugin: https://raw.githubusercontent.com/adamwolker21/TestPlugins/builds/Asia2tv.cs3 to /data/user/0/com.lagradost.cloudstream3/files/Extensions/httpsraw.githubusercontent.comadamwolker21TestPluginsrefsheadsmasterrepo.json.113048842/Asia2tv.950460682.cs3
+10-16 02:17:39.018 20102 20159 I PluginManager: Unloading plugin: /data/user/0/com.lagradost.cloudstream3/files/Extensions/httpsraw.githubusercontent.comadamwolker21TestPluginsrefsheadsmasterrepo.json.113048842/Asia2tv.950460682.cs3
+10-16 02:17:39.019 20102 20159 W PluginManager: Couldn't find plugin /data/user/0/com.lagradost.cloudstream3/files/Extensions/httpsraw.githubusercontent.comadamwolker21TestPluginsrefsheadsmasterrepo.json.113048842/Asia2tv.950460682.cs3
+10-16 02:17:39.020 20102 20159 I PluginManager: Loading plugin: PluginData(internalName=Asia2tv, url=https://raw.githubusercontent.com/adamwolker21/TestPlugins/builds/Asia2tv.cs3, isOnline=true, filePath=/data/user/0/com.lagradost.cloudstream3/files/Extensions/httpsraw.githubusercontent.comadamwolker21TestPluginsrefsheadsmasterrepo.json.113048842/Asia2tv.950460682.cs3, version=-2147483648)
+10-16 02:17:39.083 20102 20159 I PluginInstance: Adding Asia2Tv (https://asia2tv.com) MainAPI
+10-16 02:17:39.083 20102 20159 I PluginManager: Loaded plugin Asia2tv successfully
+10-16 02:17:39.084 20102 20159 I PLG     : getPlugins = https://raw.githubusercontent.com/adamwolker21/TestPlugins/refs/heads/master/repo.json
+10-16 02:17:39.084 20102 20102 I COMPACT : showToast = Plugin Loaded
+10-16 02:17:39.092 20102 20102 D CompatibilityChangeReporter: Compat change id reported: 147798919; UID 10526; state: ENABLED
+10-16 02:17:39.092 20102 20102 E Toast   : setGravity() shouldn't be called on text toasts, the values won't be used
+10-16 02:17:39.092 20102 20102 I Toast   : setView: it's a custom toast
+10-16 02:17:39.101 20102 20102 V Toast   : show: caller = com.lagradost.cloudstream3.CommonActivity.showToast:175 
+10-16 02:17:39.162 20102 20102 V Toast   : HANDLE SHOW: android.widget.Toast$TN@920a9a1 mView=null mNextView=androidx.cardview.widget.CardView{a1d77c6 V.E..V... ......ID 0,0-0,0 #7f0a0557 app:id/toast_layout_root}
+10-16 02:17:39.163 20102 20102 V ToastPresenter: sipHeight = -39
+10-16 02:17:39.165 20102 20102 V ToastPresenter: yOffset = 13
+10-16 02:17:39.167 20102 20129 D NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+10-16 02:17:39.175 20102 20102 D InsetsController: onStateChanged: InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2400), mDisplayCutout=DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2400 physicalDisplayWidth=1080 physicalDisplayHeight=2400 density={2.625} cutoutSpec={M 0,0 M 0,12.25101276465640 a 10.60613009248640,10.60613009248640 0 1,0 0,21.21226018497290 a 10.60613009248640,10.60613009248640 0 1,0 0,-21.21226018497290 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=84, center=Point(84, 84)}, RoundedCorner{position=TopRight, radius=84, center=Point(996, 84)}, RoundedCorner{position=BottomRight, radius=84, center=Point(996, 2316)}, RoundedCorner{position=BottomLeft, radius=84, center=Point(84, 2316)}]}  mRoundedCornerFrame=Rect(0, 0 - 0, 0), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(964, 0 - 1080, 87) rotation=0}, mSources= { InsetsSource: {mType=ITYPE_NAVIGATION_BAR, mFrame=[0,2361][1080,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_LEFT_GESTURES, mFrame=[0,0][130,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_RIGHT_GESTURES, mFrame=[950,0][1080,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_TOP_MANDATORY_GESTURES, mFrame=[0,0][1080,120], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_BOTTOM_MANDATORY_GESTURES, mFrame=[0,2316][1080,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_LEFT_DISPLAY_CUTOUT, mFrame=[0,0][-100000,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_TOP_DISPLAY_CUTOUT, mFrame=[0,0][1080,88], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_RIGHT_DISPLAY_CUTOUT, mFrame=[100000,0][1080,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_BOTTOM_DISPLAY_CUTOUT, mFrame=[0,100000][1080,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_BOTTOM_TAPPABLE_ELEMENT, mFrame=[0,0][0,0], mVisible=true, mInsetsRoundedCornerFrame=false} } host=Toast from=android.view.ViewRootImpl.setView:1732
+10-16 02:17:39.176 20102 20102 I ViewRootImpl@22e8387[Toast]: setView = androidx.cardview.widget.CardView@a1d77c6 TM=true
+10-16 02:17:39.183 20102 20102 I ViewRootImpl@22e8387[Toast]: performTraversals params={(0,13)(wrapxwrap) gr=BOTTOM CENTER sim={adjust=resize} ty=TOAST fmt=TRANSLUCENT wanim=0x1030004 surfaceInsets=Rect(11, 11 - 11, 11)
+10-16 02:17:39.183 20102 20102 I ViewRootImpl@22e8387[Toast]:   fl=1000098
+10-16 02:17:39.183 20102 20102 I ViewRootImpl@22e8387[Toast]:   pfl=12000000
+10-16 02:17:39.183 20102 20102 I ViewRootImpl@22e8387[Toast]:   bhv=DEFAULT
+10-16 02:17:39.183 20102 20102 I ViewRootImpl@22e8387[Toast]:   fitTypes=STATUS_BARS NAVIGATION_BARS CAPTION_BAR
+10-16 02:17:39.183 20102 20102 I ViewRootImpl@22e8387[Toast]:   fitIgnoreVis naviIconColor=0}
+10-16 02:17:39.184 20102 20102 I ViewRootImpl@22e8387[Toast]: performTraversals mFirst=true windowShouldResize=false viewVisibilityChanged=false mForceNextWindowRelayout=false params={(0,13)(wrapxwrap) gr=BOTTOM CENTER sim={adjust=resize} ty=TOAST fmt=TRANSLUCENT wanim=0x1030004 surfaceInsets=Rect(11, 11 - 11, 11)
+10-16 02:17:39.184 20102 20102 I ViewRootImpl@22e8387[Toast]:   fl=1000098
+10-16 02:17:39.184 20102 20102 I ViewRootImpl@22e8387[Toast]:   pfl=12000000
+10-16 02:17:39.184 20102 20102 I ViewRootImpl@22e8387[Toast]:   bhv=DEFAULT
+10-16 02:17:39.184 20102 20102 I ViewRootImpl@22e8387[Toast]:   fitTypes=STATUS_BARS NAVIGATION_BARS CAPTION_BAR
+10-16 02:17:39.184 20102 20102 I ViewRootImpl@22e8387[Toast]:   fitIgnoreVis naviIconColor=0}
+10-16 02:17:39.192 20102 20102 I ViewRootImpl@22e8387[Toast]: updateBlastSurfaceIfNeeded mBlastBufferQueue=null isSameSurfaceControl=false
+10-16 02:17:39.193 20102 20102 I BLASTBufferQueue: new BLASTBufferQueue, mName= ViewRootImpl@22e8387[Toast] mNativeObject= 0x7b46ec6300 sc.mNativeObject= 0x7b5dc3c1c0 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:2909 android.view.ViewRootImpl.relayoutWindow:9847 android.view.ViewRootImpl.performTraversals:3884 android.view.ViewRootImpl.doTraversal:3116 android.view.ViewRootImpl$TraversalRunnable.run:10885 android.view.Choreographer$CallbackRecord.run:1301 android.view.Choreographer$CallbackRecord.run:1309 android.view.Choreographer.doCallbacks:923 android.view.Choreographer.doFrame:852 android.view.Choreographer$FrameDisplayEventReceiver.run:1283 
+10-16 02:17:39.193 20102 20102 I BLASTBufferQueue: update, w= 373 h= 178 mName = ViewRootImpl@22e8387[Toast] mNativeObject= 0x7b46ec6300 sc.mNativeObject= 0x7b5dc3c1c0 format= -3 caller= android.graphics.BLASTBufferQueue.<init>:84 android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:2909 android.view.ViewRootImpl.relayoutWindow:9847 android.view.ViewRootImpl.performTraversals:3884 android.view.ViewRootImpl.doTraversal:3116 android.view.ViewRootImpl$TraversalRunnable.run:10885 
+10-16 02:17:39.194 20102 20102 I ViewRootImpl@22e8387[Toast]: Relayout returned: old=(0,88,1080,2361) new=(364,2192,715,2348) req=(351,156)0 dur=8 res=0x3 s={true 0x7b0a079800} ch=true seqId=0
+10-16 02:17:39.194 20102 20102 I ViewRootImpl@22e8387[Toast]: mThreadedRenderer.initialize() mSurface={isValid=true 0x7b0a079800} hwInitialized=true
+10-16 02:17:39.195 20102 20129 D OpenGLRenderer: eglCreateWindowSurface
+10-16 02:17:39.214 20102 20102 I ViewRootImpl@22e8387[Toast]: reportNextDraw android.view.ViewRootImpl.performTraversals:4438 android.view.ViewRootImpl.doTraversal:3116 android.view.ViewRootImpl$TraversalRunnable.run:10885 android.view.Choreographer$CallbackRecord.run:1301 android.view.Choreographer$CallbackRecord.run:1309 
+10-16 02:17:39.214 20102 20102 I ViewRootImpl@22e8387[Toast]: Setup new sync id=0
+10-16 02:17:39.214 20102 20102 I ViewRootImpl@22e8387[Toast]: Setting syncFrameCallback
+10-16 02:17:39.215 20102 20102 I ViewRootImpl@22e8387[Toast]: registerCallbacksForSync syncBuffer=false
+10-16 02:17:39.217 20102 20185 I ViewRootImpl@22e8387[Toast]: Received frameDrawingCallback syncResult=0 frameNum=1.
+10-16 02:17:39.217 20102 20185 I ViewRootImpl@22e8387[Toast]: Setting up sync and frameCommitCallback
+10-16 02:17:39.220 20102 20129 I BLASTBufferQueue: [ViewRootImpl@22e8387[Toast]#4](f:0,a:0) onFrameAvailable the first frame is available
+10-16 02:17:39.221 20102 20129 I ViewRootImpl@22e8387[Toast]: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+10-16 02:17:39.223 20102 20129 D OpenGLRenderer: CFMS:: SetUp Pid : 20102    Tid : 20129
+10-16 02:17:39.227 20102 20102 I ViewRootImpl@22e8387[Toast]: onSyncComplete
+10-16 02:17:39.227 20102 20102 I ViewRootImpl@22e8387[Toast]: setupSync seqId=0 mSyncId=0 fn=1 caller=android.view.ViewRootImpl$$ExternalSyntheticLambda11.accept:6 android.window.SurfaceSyncer.lambda$setupSync$1$android-window-SurfaceSyncer:128 android.window.SurfaceSyncer$$ExternalSyntheticLambda1.accept:8 android.window.SurfaceSyncer$SyncSet.checkIfSyncIsComplete:382 android.window.SurfaceSyncer$SyncSet.markSyncReady:359 android.window.SurfaceSyncer.markSyncReady:151 android.view.ViewRootImpl.performTraversals:4503 
+10-16 02:17:39.228 20102 20102 I ViewRootImpl@22e8387[Toast]: reportDrawFinished seqId=0 mSyncId=-1 fn=1 mSurfaceChangedTransaction=0x7b46f2d900
+10-16 02:17:40.303 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 0
+10-16 02:17:40.340 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 1
+10-16 02:17:40.362 20102 20102 I IMM_LC  : hsifw() - flag : 0
+10-16 02:17:40.363 20102 20102 I IMM_LC  : hsifw() - mService.hideSoftInput
+10-16 02:17:41.113 20102 20129 D OpenGLRenderer: setSurface called with nullptr
+10-16 02:17:41.113 20102 20129 D OpenGLRenderer: setSurface() destroyed EGLSurface
+10-16 02:17:41.113 20102 20129 D OpenGLRenderer: destroyEglSurface
+10-16 02:17:41.115 20102 20102 I ViewRootImpl@22e8387[Toast]: dispatchDetachedFromWindow
+10-16 02:17:41.126 20102 20102 D InputTransport: Input channel destroyed: 'e031b6f', fd=156
+10-16 02:17:41.779 20102 20111 I st.cloudstream3: Background concurrent copying GC freed 7567KB AllocSpace bytes, 36(2876KB) LOS objects, 49% free, 23MB/47MB, paused 308us,240us total 246.019ms
+10-16 02:17:41.787 20102 20129 D OpenGLRenderer: setSurface called with nullptr
+10-16 02:17:41.790 20102 20112 D InputTransport: Input channel destroyed: 'ClientS', fd=119
+10-16 02:17:41.795 20102 20129 D OpenGLRenderer: setSurface called with nullptr
+10-16 02:17:41.797 20102 20112 D InputTransport: Input channel destroyed: 'ClientS', fd=135
+10-16 02:17:41.798 20102 20129 D OpenGLRenderer: setSurface called with nullptr
+10-16 02:17:41.823 20102 20113 W System  : A resource failed to call close. 
+10-16 02:17:41.978 20102 20212 D Asia2Tv : Load function started for url: https://asia2tv.com/movie/%d9%81%d9%8a%d9%84%d9%85-the-pact-%d8%a7%d9%84%d8%b9%d9%87%d8%af-2025
+10-16 02:17:41.978 20102 20215 D Asia2Tv : Load function started for url: https://asia2tv.com/movie/%d9%81%d9%8a%d9%84%d9%85-3days-%d8%ab%d9%84%d8%a7%d8%ab%d8%a9-%d8%a3%d9%8a%d8%a7%d9%85-2025
+10-16 02:17:41.978 20102 20159 D Asia2Tv : Load function started for url: https://asia2tv.com/serie/alice-in-borderland-s3-%d8%a3%d9%84%d9%8a%d8%b3-%d9%81%d9%8a-%d8%a8%d9%88%d8%b1%d8%af%d8%b1%d9%84%d8%a7%d9%86%d8%af-3
+10-16 02:17:42.663 20102 20159 D Asia2Tv : Found 0 initial episodes.
+10-16 02:17:42.668 20102 20159 D Asia2Tv : Found Serie ID: 49618, CSRF Token: true
+10-16 02:17:42.668 20102 20159 D Asia2Tv : Fetching page 2...
+10-16 02:17:42.766 20102 20159 D Asia2Tv : Found 6 initial episodes.
+10-16 02:17:42.772 20102 20159 D Asia2Tv : Found Serie ID: 49957, CSRF Token: true
+10-16 02:17:42.772 20102 20159 D Asia2Tv : Fetching page 2...
+10-16 02:17:42.846 20102 20159 D Asia2Tv : Found 0 initial episodes.
+10-16 02:17:42.850 20102 20159 D Asia2Tv : Found Serie ID: 49601, CSRF Token: true
+10-16 02:17:42.850 20102 20159 D Asia2Tv : Fetching page 2...
+10-16 02:17:43.123 20102 20159 D Asia2Tv : Raw response for page 2: {
+10-16 02:17:43.123 20102 20159 D Asia2Tv :     "message": "CSRF token mismatch."
+10-16 02:17:43.123 20102 20159 D Asia2Tv : }
+10-16 02:17:43.197 20102 20159 D Asia2Tv : Response status was false or response was null/invalid. Stopping loop.
+10-16 02:17:43.197 20102 20159 D Asia2Tv : Load function finished. Total episodes found: 0
+10-16 02:17:43.240 20102 20159 D Asia2Tv : Raw response for page 2: {
+10-16 02:17:43.240 20102 20159 D Asia2Tv :     "message": "CSRF token mismatch."
+10-16 02:17:43.240 20102 20159 D Asia2Tv : }
+10-16 02:17:43.241 20102 20159 D Asia2Tv : Response status was false or response was null/invalid. Stopping loop.
+10-16 02:17:43.241 20102 20159 D Asia2Tv : Load function finished. Total episodes found: 6
+10-16 02:17:43.301 20102 20159 D Asia2Tv : Raw response for page 2: {
+10-16 02:17:43.301 20102 20159 D Asia2Tv :     "message": "CSRF token mismatch."
+10-16 02:17:43.301 20102 20159 D Asia2Tv : }
+10-16 02:17:43.301 20102 20159 D Asia2Tv : Response status was false or response was null/invalid. Stopping loop.
+10-16 02:17:43.302 20102 20159 D Asia2Tv : Load function finished. Total episodes found: 0
+10-16 02:17:44.618 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 0
+10-16 02:17:44.908 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 1
+10-16 02:17:45.381 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 0
+10-16 02:17:45.419 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 1
+10-16 02:17:45.433 20102 20102 I NavComponent: Navigating to fragment: 2131362274
+10-16 02:17:45.448 20102 20102 I IMM_LC  : hsifw() - flag : 0
+10-16 02:17:45.448 20102 20102 I IMM_LC  : hsifw() - mService.hideSoftInput
+10-16 02:17:45.583 20102 20102 D ScrollView: initGoToTop
+10-16 02:17:45.920 20102 20102 I SurfaceView@eea14f1: onWindowVisibilityChanged(0) true android.view.SurfaceView{eea14f1 V.E..V... ......I. 0,0-0,0} of ViewRootImpl@3fa491a[MainActivity]
+10-16 02:17:45.920 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:45.930 20102 20102 I CS3ExoPlayer: SET STYLE = SaveCaptionStyle(foregroundColor=-1, backgroundColor=0, windowColor=0, edgeType=1, edgeColor=-16777216, typeface=null, typefaceFilePath=null, elevation=20, fixedTextSize=null, edgeSize=null, removeCaptions=false, removeBloat=true, upperCase=false, bold=false, italic=false, backgroundRadius=null)
+10-16 02:17:45.948 20102 20102 D VideoClickActionHolder: allVideoClickActions: [null:com.lagradost.cloudstream3.actions.temp.PlayInBrowserAction, null:com.lagradost.cloudstream3.actions.temp.CopyClipboardAction, null:com.lagradost.cloudstream3.actions.temp.ViewM3U8Action, null:com.lagradost.cloudstream3.actions.temp.VlcPackage, null:com.lagradost.cloudstream3.actions.temp.MpvPackage, null:com.lagradost.cloudstream3.actions.temp.NextPlayerPackage, null:com.lagradost.cloudstream3.actions.temp.JustPlayerPackage, null:com.lagradost.cloudstream3.actions.temp.fcast.FcastAction, null:com.lagradost.cloudstream3.actions.temp.LibreTorrentPackage, null:com.lagradost.cloudstream3.actions.temp.BiglyBTPackage, null:com.lagradost.cloudstream3.actions.temp.VlcNightlyPackage, null:com.lagradost.cloudstream3.actions.temp.WebVideoCastPackage, null:com.lagradost.cloudstream3.actions.temp.MpvYTDLPackage, null:com.lagradost.cloudstream3.actions.temp.MpvKtPackage, null:com.lagradost.cloudstream3.actions.temp.MpvKtPreviewPackage, null:com.lagradost.cloudstream3.actions.AlwaysAskAction]
+10-16 02:17:45.949 20102 20102 I IMM_LC  : hsifw() - flag : 0
+10-16 02:17:45.949 20102 20102 I IMM_LC  : hsifw() - mService.hideSoftInput
+10-16 02:17:45.952 20102 20212 I SYNCVM  : addFromUrl = https://asia2tv.com/serie/loves-ambition-%d8%b7%d9%85%d9%88%d8%ad-%d8%a7%d9%84%d8%ad%d8%a8
+10-16 02:17:45.953 20102 20212 I SYNCUTIL: getIdsFromUrl https://asia2tv.com/serie/loves-ambition-%d8%b7%d9%85%d9%88%d8%ad-%d8%a7%d9%84%d8%ad%d8%a8
+10-16 02:17:45.954 20102 20213 D Asia2Tv : Load function started for url: https://asia2tv.com/serie/loves-ambition-%d8%b7%d9%85%d9%88%d8%ad-%d8%a7%d9%84%d8%ad%d8%a8
+10-16 02:17:45.976 20102 20102 I SurfaceView@eea14f1: onWindowVisibilityChanged(8) false android.view.SurfaceView{eea14f1 V.E..V... ......I. 0,0-0,0} of ViewRootImpl@3fa491a[MainActivity]
+10-16 02:17:45.976 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:45.976 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:45.976 20102 20102 I SurfaceView@eea14f1: onDetachedFromWindow: tryReleaseSurfaces()
+10-16 02:17:45.976 20102 20102 I SurfaceView@eea14f1: releaseSurfaces: viewRoot = ViewRootImpl@3fa491a[MainActivity]
+10-16 02:17:45.976 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: vri = ViewRootImpl@3fa491a[MainActivity] fRS = true t = 0x7b425f1f00 android.view.SurfaceView.releaseSurfaces:858 android.view.SurfaceView.onDetachedFromWindow:500 android.view.View.dispatchDetachedFromWindow:22538 
+10-16 02:17:45.976 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: viewRoot.applyTransactionOnDrawFromReleaseSurfaces
+10-16 02:17:45.977 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: applyTransactionOnDraw: mRemoved = false isHardwareEnabled = true t = 0x7b425f1f00android.view.ViewRootImpl.applyTransactionOnDrawFromReleaseSurfaces:12850 android.view.SurfaceView.applyTransactionOnVriDraw:2046 android.view.SurfaceView.releaseSurfaces:858 android.view.SurfaceView.onDetachedFromWindow:500 android.view.View.dispatchDetachedFromWindow:22538 
+10-16 02:17:45.979 20102 20102 I SurfaceView@eea14f1: onWindowVisibilityChanged(0) true android.view.SurfaceView{eea14f1 V.E..V... ......I. 0,0-0,0} of ViewRootImpl@3fa491a[MainActivity]
+10-16 02:17:45.979 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:45.991 20102 20102 I DecorView: notifyKeepScreenOnChanged: keepScreenOn=false
+10-16 02:17:46.008 20102 20102 I CS3ExoPlayer: reloadPlayer
+10-16 02:17:46.008 20102 20102 I CS3ExoPlayer: releasePlayer
+10-16 02:17:46.009 20102 20102 I CS3ExoPlayer: Handle event: PlayerAttachedEvent(player=null, source=Player)
+10-16 02:17:46.011 20102 20102 I Choreographer: Skipped 33 frames!  The application may be doing too much work on its main thread.
+10-16 02:17:46.016 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: performTraversals params={(0,0)(fillxfill) sim={state=always_hidden adjust=resize} ty=BASE_APPLICATION wanim=0x1030309
+10-16 02:17:46.016 20102 20102 I ViewRootImpl@3fa491a[MainActivity]:   fl=85810100
+10-16 02:17:46.016 20102 20102 I ViewRootImpl@3fa491a[MainActivity]:   pfl=12020040
+10-16 02:17:46.016 20102 20102 I ViewRootImpl@3fa491a[MainActivity]:   vsysui=500
+10-16 02:17:46.016 20102 20102 I ViewRootImpl@3fa491a[MainActivity]:   bhv=DEFAULT
+10-16 02:17:46.016 20102 20102 I ViewRootImpl@3fa491a[MainActivity]:   fitSides= naviIconColor=0}
+10-16 02:17:46.016 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: performTraversals mFirst=false windowShouldResize=false viewVisibilityChanged=false mForceNextWindowRelayout=false params={(0,0)(fillxfill) sim={state=always_hidden adjust=resize} ty=BASE_APPLICATION fmt=TRANSLUCENT wanim=0x1030309
+10-16 02:17:46.016 20102 20102 I ViewRootImpl@3fa491a[MainActivity]:   fl=85810100
+10-16 02:17:46.016 20102 20102 I ViewRootImpl@3fa491a[MainActivity]:   pfl=12020040
+10-16 02:17:46.016 20102 20102 I ViewRootImpl@3fa491a[MainActivity]:   vsysui=500
+10-16 02:17:46.016 20102 20102 I ViewRootImpl@3fa491a[MainActivity]:   bhv=DEFAULT
+10-16 02:17:46.016 20102 20102 I ViewRootImpl@3fa491a[MainActivity]:   fitSides= naviIconColor=0}
+10-16 02:17:46.022 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: updateBlastSurfaceIfNeeded mBlastBufferQueue=0x7b47120e00 isSameSurfaceControl=true
+10-16 02:17:46.022 20102 20102 I BLASTBufferQueue: update, w= 1080 h= 2400 mName = ViewRootImpl@3fa491a[MainActivity] mNativeObject= 0x7b47120e00 sc.mNativeObject= 0x7aed68b3a0 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:2898 android.view.ViewRootImpl.relayoutWindow:9847 android.view.ViewRootImpl.performTraversals:3884 android.view.ViewRootImpl.doTraversal:3116 android.view.ViewRootImpl$TraversalRunnable.run:10885 android.view.Choreographer$CallbackRecord.run:1301 
+10-16 02:17:46.022 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) req=(1080,2400)0 dur=5 res=0x0 s={true 0x7b5dd28000} ch=false seqId=0
+10-16 02:17:46.024 20102 20102 W View    : requestLayout() improperly called by android.widget.FrameLayout{49f6048 I.E..V... ......I. 0,0-0,0 #7f0a04e7 app:id/start_panel} during layout: running second layout pass
+10-16 02:17:46.024 20102 20102 W View    : requestLayout() improperly called by android.widget.FrameLayout{6e21ee1 I.E..V... ......ID 1080,0-1080,2143 #7f0a0168 app:id/end_panel} during layout: running second layout pass
+10-16 02:17:46.026 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.037 20102 20186 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7b425f1f00 mBlastBufferQueue=0x7b47120e00 fn= 517 caller= android.view.ViewRootImpl.lambda$applyTransactionOnDraw$11$android-view-ViewRootImpl:12865 android.view.ViewRootImpl$$ExternalSyntheticLambda1.onFrameDraw:4 android.graphics.HardwareRenderer$FrameDrawingCallback.onFrameDraw:924 
+10-16 02:17:46.045 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.061 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.078 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.095 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.112 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.128 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.145 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.163 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.193 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.197 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.213 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.229 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.245 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.262 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.279 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.295 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.312 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.328 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.345 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.362 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.378 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.395 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.412 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.428 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.445 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.461 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.478 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.495 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.512 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.528 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.545 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.562 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.578 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.595 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.611 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.628 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.645 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.661 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.678 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.695 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.712 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.728 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.745 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.761 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.778 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.795 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.813 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.828 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.844 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.861 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.878 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.894 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.911 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.928 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.944 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.961 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.978 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:46.994 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.011 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.028 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.044 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.061 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.078 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.094 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.111 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.128 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.144 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.161 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.177 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.194 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.211 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.228 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.245 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.261 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.276 20102 20213 D Asia2Tv : Found 16 initial episodes.
+10-16 02:17:47.278 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.280 20102 20213 D Asia2Tv : Found Serie ID: 49962, CSRF Token: true
+10-16 02:17:47.280 20102 20213 D Asia2Tv : Fetching page 2...
+10-16 02:17:47.294 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.311 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.327 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.345 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.361 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.378 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.394 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.411 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.428 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.444 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.461 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.477 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.494 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.511 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.527 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.544 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.561 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.577 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.594 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.611 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.628 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.644 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.661 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.678 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.694 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.711 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.727 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.744 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.761 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.778 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.794 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.811 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.827 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.844 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.860 20102 20213 D Asia2Tv : Raw response for page 2: {
+10-16 02:17:47.860 20102 20213 D Asia2Tv :     "message": "CSRF token mismatch."
+10-16 02:17:47.860 20102 20213 D Asia2Tv : }
+10-16 02:17:47.861 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.861 20102 20213 D Asia2Tv : Response status was false or response was null/invalid. Stopping loop.
+10-16 02:17:47.861 20102 20213 D Asia2Tv : Load function finished. Total episodes found: 16
+10-16 02:17:47.862 20102 20213 I RVM2    : applyMeta
+10-16 02:17:47.877 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.894 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.911 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.927 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.944 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.961 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.977 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:47.994 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:48.010 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:48.027 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:48.044 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:48.052 20102 20102 W PanelsChildGestureRegionObserver: failed to register view with ID 2131362800. already registered
+10-16 02:17:48.056 20102 20102 E CoilImgLoader: Error loading image: coil3.request.NullRequestDataException: The request's data is null.
+10-16 02:17:48.062 20102 20102 E CoilImgLoader: Error loading image: coil3.request.NullRequestDataException: The request's data is null.
+10-16 02:17:48.130 20102 20213 I SYNCVM  : addFromUrl = https://asia2tv.com/serie/loves-ambition-%d8%b7%d9%85%d9%88%d8%ad-%d8%a7%d9%84%d8%ad%d8%a8
+10-16 02:17:48.130 20102 20213 I SYNCUTIL: getIdsFromUrl https://asia2tv.com/serie/loves-ambition-%d8%b7%d9%85%d9%88%d8%ad-%d8%a7%d9%84%d8%ad%d8%a8
+10-16 02:17:48.385 20102 20102 D SurfaceView@eea14f1: updateSurface: has no frame
+10-16 02:17:48.392 20102 20102 I SurfaceView@eea14f1: Changes: creating=true format=true size=true visible=true alpha=false hint=false mUseAlpha=false visible=true left=true top=true
+10-16 02:17:48.396 20102 20102 I BLASTBufferQueue: update, w= 1080 h= 525 mName = null mNativeObject= 0x7b5db66000 sc.mNativeObject= 0x7ae1ad1040 format= 4 caller= android.view.SurfaceView.createBlastSurfaceControls:1383 android.view.SurfaceView.updateSurface:1079 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 android.view.SurfaceView$$ExternalSyntheticLambda5.onPreDraw:2 android.view.ViewTreeObserver.dispatchOnPreDraw:1121 android.view.ViewRootImpl.performTraversals:4442 
+10-16 02:17:48.396 20102 20102 I SurfaceView@eea14f1: 250221809 Cur surface: Surface(name=null)/@0x9130f56
+10-16 02:17:48.396 20102 20102 I SurfaceView@eea14f1: pST: sr = Rect(0, 218 - 1080, 743) sw = 1080 sh = 525
+10-16 02:17:48.397 20102 20102 D SurfaceView@eea14f1: performSurfaceTransaction RenderWorker position = [0, 218, 1080, 743] surfaceSize = 1080x525
+10-16 02:17:48.397 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: vri = ViewRootImpl@3fa491a[MainActivity] fRS = false t = 0x7ae1ac3000 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 
+10-16 02:17:48.397 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: applyTransactionOnDraw: mRemoved = false isHardwareEnabled = true t = 0x7ae1ac3000android.view.SurfaceView.applyTransactionOnVriDraw:2048 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 android.view.SurfaceView$$ExternalSyntheticLambda5.onPreDraw:2 
+10-16 02:17:48.397 20102 20102 I SurfaceView@eea14f1: updateSurface: mVisible = true mSurface.isValid() = true
+10-16 02:17:48.397 20102 20102 I SurfaceView@eea14f1: updateSurface: mSurfaceCreated = false surfaceChanged = true visibleChanged = true
+10-16 02:17:48.397 20102 20102 I SurfaceView@eea14f1: visibleChanged -- surfaceCreated
+10-16 02:17:48.397 20102 20102 I SurfaceView@eea14f1: surfaceCreated 0 #8 android.view.SurfaceView{eea14f1 V.E..V... ......ID 0,0-1080,525}
+10-16 02:17:48.397 20102 20102 I SurfaceView@eea14f1: surfaceChanged -- format=4 w=1080 h=525
+10-16 02:17:48.397 20102 20102 I SurfaceView@eea14f1: surfaceChanged (1080,525) 0 #8 android.view.SurfaceView{eea14f1 V.E..V... ......ID 0,0-1080,525}
+10-16 02:17:48.397 20102 20102 I SurfaceView@eea14f1: surfaceRedrawNeeded
+10-16 02:17:48.398 20102 20102 V SurfaceView@eea14f1: Layout: x=0 y=218 w=1080 h=525, frame=Rect(0, 0 - 1080, 525)
+10-16 02:17:48.423 20102 20185 D SurfaceView@eea14f1: updateSurfacePosition RenderWorker, frameNr = 638, position = [0, 218, 1080, 743] surfaceSize = 1080x525
+10-16 02:17:48.424 20102 20185 I SurfaceView@eea14f1: uSP: rtp = Rect(0, 218 - 1080, 743) rtsw = 1080 rtsh = 525
+10-16 02:17:48.425 20102 20185 I SurfaceView@eea14f1: onSSPAndSRT: pl = 0 pt = 218 sx = 1.0 sy = 1.0
+10-16 02:17:48.426 20102 20185 I SurfaceView@eea14f1: aOrMT: ViewRootImpl@3fa491a[MainActivity] t = android.view.SurfaceControl$Transaction@a9b6e73 fN = 638 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 android.graphics.RenderNode$CompositePositionUpdateListener.positionChanged:373 
+10-16 02:17:48.426 20102 20185 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7ae1ac3100 mBlastBufferQueue=0x7b47120e00 fn= 638 caller= android.view.SurfaceView.applyOrMergeTransaction:1455 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 
+10-16 02:17:48.427 20102 20185 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7ae1ac3000 mBlastBufferQueue=0x7b47120e00 fn= 638 caller= android.view.ViewRootImpl.lambda$applyTransactionOnDraw$11$android-view-ViewRootImpl:12865 android.view.ViewRootImpl$$ExternalSyntheticLambda1.onFrameDraw:4 android.graphics.HardwareRenderer$FrameDrawingCallback.onFrameDraw:924 
+10-16 02:17:48.542 20102 20111 I st.cloudstream3: Background concurrent copying GC freed 13MB AllocSpace bytes, 97(8312KB) LOS objects, 47% free, 26MB/50MB, paused 264us,132us total 251.786ms
+10-16 02:17:48.550 20102 20102 I SurfaceView@eea14f1: finishedDrawing
+10-16 02:17:49.889 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 0
+10-16 02:17:49.937 20102 20102 I SurfaceView@eea14f1: Changes: creating=false format=false size=false visible=false alpha=false hint=false mUseAlpha=false visible=false left=false top=true
+10-16 02:17:49.937 20102 20102 I SurfaceView@eea14f1: 250221809 Cur surface: Surface(name=null)/@0x9130f56
+10-16 02:17:49.938 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: vri = ViewRootImpl@3fa491a[MainActivity] fRS = false t = 0x7bed84d300 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 
+10-16 02:17:49.939 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: applyTransactionOnDraw: mRemoved = false isHardwareEnabled = true t = 0x7bed84d300android.view.SurfaceView.applyTransactionOnVriDraw:2048 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 android.view.SurfaceView$$ExternalSyntheticLambda5.onPreDraw:2 
+10-16 02:17:49.939 20102 20102 I SurfaceView@eea14f1: updateSurface: mVisible = true mSurface.isValid() = true
+10-16 02:17:49.939 20102 20102 I SurfaceView@eea14f1: updateSurface: mSurfaceCreated = true surfaceChanged = false visibleChanged = false
+10-16 02:17:49.939 20102 20102 V SurfaceView@eea14f1: Layout: x=0 y=131 w=1080 h=525, frame=Rect(0, 0 - 1080, 525)
+10-16 02:17:49.944 20102 20186 D SurfaceView@eea14f1: updateSurfacePosition RenderWorker, frameNr = 671, position = [0, 131, 1080, 656] surfaceSize = 1080x525
+10-16 02:17:49.945 20102 20186 I SurfaceView@eea14f1: uSP: rtp = Rect(0, 131 - 1080, 656) rtsw = 1080 rtsh = 525
+10-16 02:17:49.945 20102 20186 I SurfaceView@eea14f1: onSSPAndSRT: pl = 0 pt = 131 sx = 1.0 sy = 1.0
+10-16 02:17:49.946 20102 20186 I SurfaceView@eea14f1: aOrMT: ViewRootImpl@3fa491a[MainActivity] t = android.view.SurfaceControl$Transaction@a9b6e73 fN = 671 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 android.graphics.RenderNode$CompositePositionUpdateListener.positionChanged:373 
+10-16 02:17:49.946 20102 20186 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7ae1ac3100 mBlastBufferQueue=0x7b47120e00 fn= 671 caller= android.view.SurfaceView.applyOrMergeTransaction:1455 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 
+10-16 02:17:49.947 20102 20186 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7bed84d300 mBlastBufferQueue=0x7b47120e00 fn= 671 caller= android.view.ViewRootImpl.lambda$applyTransactionOnDraw$11$android-view-ViewRootImpl:12865 android.view.ViewRootImpl$$ExternalSyntheticLambda1.onFrameDraw:4 android.graphics.HardwareRenderer$FrameDrawingCallback.onFrameDraw:924 
+10-16 02:17:49.953 20102 20102 I SurfaceView@eea14f1: Changes: creating=false format=false size=false visible=false alpha=false hint=false mUseAlpha=false visible=false left=false top=true
+10-16 02:17:49.954 20102 20102 I SurfaceView@eea14f1: 250221809 Cur surface: Surface(name=null)/@0x9130f56
+10-16 02:17:49.954 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: vri = ViewRootImpl@3fa491a[MainActivity] fRS = false t = 0x7bed84d500 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 
+10-16 02:17:49.955 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: applyTransactionOnDraw: mRemoved = false isHardwareEnabled = true t = 0x7bed84d500android.view.SurfaceView.applyTransactionOnVriDraw:2048 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 android.view.SurfaceView$$ExternalSyntheticLambda5.onPreDraw:2 
+10-16 02:17:49.955 20102 20102 I SurfaceView@eea14f1: updateSurface: mVisible = true mSurface.isValid() = true
+10-16 02:17:49.955 20102 20102 I SurfaceView@eea14f1: updateSurface: mSurfaceCreated = true surfaceChanged = false visibleChanged = false
+10-16 02:17:49.955 20102 20102 V SurfaceView@eea14f1: Layout: x=0 y=13 w=1080 h=525, frame=Rect(0, 0 - 1080, 525)
+10-16 02:17:49.966 20102 20185 D SurfaceView@eea14f1: updateSurfacePosition RenderWorker, frameNr = 672, position = [0, 13, 1080, 538] surfaceSize = 1080x525
+10-16 02:17:49.967 20102 20185 I SurfaceView@eea14f1: uSP: rtp = Rect(0, 13 - 1080, 538) rtsw = 1080 rtsh = 525
+10-16 02:17:49.967 20102 20185 I SurfaceView@eea14f1: onSSPAndSRT: pl = 0 pt = 13 sx = 1.0 sy = 1.0
+10-16 02:17:49.967 20102 20185 I SurfaceView@eea14f1: aOrMT: ViewRootImpl@3fa491a[MainActivity] t = android.view.SurfaceControl$Transaction@a9b6e73 fN = 672 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 android.graphics.RenderNode$CompositePositionUpdateListener.positionChanged:373 
+10-16 02:17:49.967 20102 20185 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7ae1ac3100 mBlastBufferQueue=0x7b47120e00 fn= 672 caller= android.view.SurfaceView.applyOrMergeTransaction:1455 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 
+10-16 02:17:49.968 20102 20185 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7bed84d500 mBlastBufferQueue=0x7b47120e00 fn= 672 caller= android.view.ViewRootImpl.lambda$applyTransactionOnDraw$11$android-view-ViewRootImpl:12865 android.view.ViewRootImpl$$ExternalSyntheticLambda1.onFrameDraw:4 android.graphics.HardwareRenderer$FrameDrawingCallback.onFrameDraw:924 
+10-16 02:17:49.974 20102 20102 I SurfaceView@eea14f1: Changes: creating=false format=false size=false visible=false alpha=false hint=false mUseAlpha=false visible=false left=false top=true
+10-16 02:17:49.975 20102 20102 I SurfaceView@eea14f1: 250221809 Cur surface: Surface(name=null)/@0x9130f56
+10-16 02:17:49.975 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: vri = ViewRootImpl@3fa491a[MainActivity] fRS = false t = 0x7bed84d700 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 
+10-16 02:17:49.976 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: applyTransactionOnDraw: mRemoved = false isHardwareEnabled = true t = 0x7bed84d700android.view.SurfaceView.applyTransactionOnVriDraw:2048 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 android.view.SurfaceView$$ExternalSyntheticLambda5.onPreDraw:2 
+10-16 02:17:49.976 20102 20102 I SurfaceView@eea14f1: updateSurface: mVisible = true mSurface.isValid() = true
+10-16 02:17:49.976 20102 20102 I SurfaceView@eea14f1: updateSurface: mSurfaceCreated = true surfaceChanged = false visibleChanged = false
+10-16 02:17:49.976 20102 20102 V SurfaceView@eea14f1: Layout: x=0 y=-124 w=1080 h=525, frame=Rect(0, 0 - 1080, 525)
+10-16 02:17:49.988 20102 20186 D SurfaceView@eea14f1: updateSurfacePosition RenderWorker, frameNr = 673, position = [0, -124, 1080, 401] surfaceSize = 1080x525
+10-16 02:17:49.989 20102 20186 I SurfaceView@eea14f1: uSP: rtp = Rect(0, -124 - 1080, 401) rtsw = 1080 rtsh = 525
+10-16 02:17:49.989 20102 20186 I SurfaceView@eea14f1: onSSPAndSRT: pl = 0 pt = -124 sx = 1.0 sy = 1.0
+10-16 02:17:49.989 20102 20186 I SurfaceView@eea14f1: aOrMT: ViewRootImpl@3fa491a[MainActivity] t = android.view.SurfaceControl$Transaction@a9b6e73 fN = 673 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 android.graphics.RenderNode$CompositePositionUpdateListener.positionChanged:373 
+10-16 02:17:49.989 20102 20186 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7ae1ac3100 mBlastBufferQueue=0x7b47120e00 fn= 673 caller= android.view.SurfaceView.applyOrMergeTransaction:1455 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 
+10-16 02:17:49.989 20102 20186 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7bed84d700 mBlastBufferQueue=0x7b47120e00 fn= 673 caller= android.view.ViewRootImpl.lambda$applyTransactionOnDraw$11$android-view-ViewRootImpl:12865 android.view.ViewRootImpl$$ExternalSyntheticLambda1.onFrameDraw:4 android.graphics.HardwareRenderer$FrameDrawingCallback.onFrameDraw:924 
+10-16 02:17:49.990 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 1
+10-16 02:17:49.996 20102 20102 I SurfaceView@eea14f1: Changes: creating=false format=false size=false visible=false alpha=false hint=false mUseAlpha=false visible=false left=false top=true
+10-16 02:17:49.996 20102 20102 I SurfaceView@eea14f1: 250221809 Cur surface: Surface(name=null)/@0x9130f56
+10-16 02:17:49.996 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: vri = ViewRootImpl@3fa491a[MainActivity] fRS = false t = 0x7bed84d800 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 
+10-16 02:17:49.997 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: applyTransactionOnDraw: mRemoved = false isHardwareEnabled = true t = 0x7bed84d800android.view.SurfaceView.applyTransactionOnVriDraw:2048 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 android.view.SurfaceView$$ExternalSyntheticLambda5.onPreDraw:2 
+10-16 02:17:49.997 20102 20102 I SurfaceView@eea14f1: updateSurface: mVisible = true mSurface.isValid() = true
+10-16 02:17:49.997 20102 20102 I SurfaceView@eea14f1: updateSurface: mSurfaceCreated = true surfaceChanged = false visibleChanged = false
+10-16 02:17:49.997 20102 20102 V SurfaceView@eea14f1: Layout: x=0 y=-129 w=1080 h=525, frame=Rect(0, 0 - 1080, 525)
+10-16 02:17:50.002 20102 20185 D SurfaceView@eea14f1: updateSurfacePosition RenderWorker, frameNr = 674, position = [0, -129, 1080, 396] surfaceSize = 1080x525
+10-16 02:17:50.002 20102 20185 I SurfaceView@eea14f1: uSP: rtp = Rect(0, -129 - 1080, 396) rtsw = 1080 rtsh = 525
+10-16 02:17:50.002 20102 20185 I SurfaceView@eea14f1: onSSPAndSRT: pl = 0 pt = -129 sx = 1.0 sy = 1.0
+10-16 02:17:50.002 20102 20185 I SurfaceView@eea14f1: aOrMT: ViewRootImpl@3fa491a[MainActivity] t = android.view.SurfaceControl$Transaction@a9b6e73 fN = 674 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 android.graphics.RenderNode$CompositePositionUpdateListener.positionChanged:373 
+10-16 02:17:50.003 20102 20185 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7ae1ac3100 mBlastBufferQueue=0x7b47120e00 fn= 674 caller= android.view.SurfaceView.applyOrMergeTransaction:1455 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 
+10-16 02:17:50.003 20102 20185 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7bed84d800 mBlastBufferQueue=0x7b47120e00 fn= 674 caller= android.view.ViewRootImpl.lambda$applyTransactionOnDraw$11$android-view-ViewRootImpl:12865 android.view.ViewRootImpl$$ExternalSyntheticLambda1.onFrameDraw:4 android.graphics.HardwareRenderer$FrameDrawingCallback.onFrameDraw:924 
+10-16 02:17:50.011 20102 20102 I SurfaceView@eea14f1: Changes: creating=false format=false size=false visible=false alpha=false hint=false mUseAlpha=false visible=false left=false top=true
+10-16 02:17:50.012 20102 20102 I SurfaceView@eea14f1: 250221809 Cur surface: Surface(name=null)/@0x9130f56
+10-16 02:17:50.012 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: vri = ViewRootImpl@3fa491a[MainActivity] fRS = false t = 0x7bed84d900 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 
+10-16 02:17:50.012 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: applyTransactionOnDraw: mRemoved = false isHardwareEnabled = true t = 0x7bed84d900android.view.SurfaceView.applyTransactionOnVriDraw:2048 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 android.view.SurfaceView$$ExternalSyntheticLambda5.onPreDraw:2 
+10-16 02:17:50.012 20102 20102 I SurfaceView@eea14f1: updateSurface: mVisible = true mSurface.isValid() = true
+10-16 02:17:50.013 20102 20102 I SurfaceView@eea14f1: updateSurface: mSurfaceCreated = true surfaceChanged = false visibleChanged = false
+10-16 02:17:50.013 20102 20102 V SurfaceView@eea14f1: Layout: x=0 y=-202 w=1080 h=525, frame=Rect(0, 0 - 1080, 525)
+10-16 02:17:50.017 20102 20186 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7bed84d900 mBlastBufferQueue=0x7b47120e00 fn= 675 caller= android.view.ViewRootImpl.lambda$applyTransactionOnDraw$11$android-view-ViewRootImpl:12865 android.view.ViewRootImpl$$ExternalSyntheticLambda1.onFrameDraw:4 android.graphics.HardwareRenderer$FrameDrawingCallback.onFrameDraw:924 
+10-16 02:17:50.028 20102 20102 I SurfaceView@eea14f1: Changes: creating=false format=false size=false visible=false alpha=false hint=false mUseAlpha=false visible=false left=false top=true
+10-16 02:17:50.028 20102 20102 I SurfaceView@eea14f1: 250221809 Cur surface: Surface(name=null)/@0x9130f56
+10-16 02:17:50.028 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: vri = ViewRootImpl@3fa491a[MainActivity] fRS = false t = 0x7bed84da00 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 
+10-16 02:17:50.028 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: applyTransactionOnDraw: mRemoved = false isHardwareEnabled = true t = 0x7bed84da00android.view.SurfaceView.applyTransactionOnVriDraw:2048 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 android.view.SurfaceView$$ExternalSyntheticLambda5.onPreDraw:2 
+10-16 02:17:50.029 20102 20102 I SurfaceView@eea14f1: updateSurface: mVisible = true mSurface.isValid() = true
+10-16 02:17:50.029 20102 20102 I SurfaceView@eea14f1: updateSurface: mSurfaceCreated = true surfaceChanged = false visibleChanged = false
+10-16 02:17:50.029 20102 20102 V SurfaceView@eea14f1: Layout: x=0 y=-312 w=1080 h=525, frame=Rect(0, 0 - 1080, 525)
+10-16 02:17:50.032 20102 20185 D SurfaceView@eea14f1: updateSurfacePosition RenderWorker, frameNr = 676, position = [0, -312, 1080, 213] surfaceSize = 1080x525
+10-16 02:17:50.033 20102 20185 I SurfaceView@eea14f1: uSP: rtp = Rect(0, -312 - 1080, 213) rtsw = 1080 rtsh = 525
+10-16 02:17:50.033 20102 20185 I SurfaceView@eea14f1: onSSPAndSRT: pl = 0 pt = -312 sx = 1.0 sy = 1.0
+10-16 02:17:50.033 20102 20185 I SurfaceView@eea14f1: aOrMT: ViewRootImpl@3fa491a[MainActivity] t = android.view.SurfaceControl$Transaction@a9b6e73 fN = 676 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 android.graphics.RenderNode$CompositePositionUpdateListener.positionChanged:373 
+10-16 02:17:50.033 20102 20185 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7ae1ac3100 mBlastBufferQueue=0x7b47120e00 fn= 676 caller= android.view.SurfaceView.applyOrMergeTransaction:1455 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 
+10-16 02:17:50.033 20102 20185 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7bed84da00 mBlastBufferQueue=0x7b47120e00 fn= 676 caller= android.view.ViewRootImpl.lambda$applyTransactionOnDraw$11$android-view-ViewRootImpl:12865 android.view.ViewRootImpl$$ExternalSyntheticLambda1.onFrameDraw:4 android.graphics.HardwareRenderer$FrameDrawingCallback.onFrameDraw:924 
+10-16 02:17:50.044 20102 20102 I SurfaceView@eea14f1: Changes: creating=false format=false size=false visible=false alpha=false hint=false mUseAlpha=false visible=false left=false top=true
+10-16 02:17:50.044 20102 20102 I SurfaceView@eea14f1: 250221809 Cur surface: Surface(name=null)/@0x9130f56
+10-16 02:17:50.045 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: vri = ViewRootImpl@3fa491a[MainActivity] fRS = false t = 0x7bed84de00 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 
+10-16 02:17:50.045 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: applyTransactionOnDraw: mRemoved = false isHardwareEnabled = true t = 0x7bed84de00android.view.SurfaceView.applyTransactionOnVriDraw:2048 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 android.view.SurfaceView$$ExternalSyntheticLambda5.onPreDraw:2 
+10-16 02:17:50.045 20102 20102 I SurfaceView@eea14f1: updateSurface: mVisible = true mSurface.isValid() = true
+10-16 02:17:50.045 20102 20102 I SurfaceView@eea14f1: updateSurface: mSurfaceCreated = true surfaceChanged = false visibleChanged = false
+10-16 02:17:50.045 20102 20102 V SurfaceView@eea14f1: Layout: x=0 y=-439 w=1080 h=525, frame=Rect(0, 0 - 1080, 525)
+10-16 02:17:50.049 20102 20186 D SurfaceView@eea14f1: updateSurfacePosition RenderWorker, frameNr = 677, position = [0, -439, 1080, 86] surfaceSize = 1080x525
+10-16 02:17:50.050 20102 20186 I SurfaceView@eea14f1: uSP: rtp = Rect(0, -439 - 1080, 86) rtsw = 1080 rtsh = 525
+10-16 02:17:50.050 20102 20186 I SurfaceView@eea14f1: onSSPAndSRT: pl = 0 pt = -439 sx = 1.0 sy = 1.0
+10-16 02:17:50.050 20102 20186 I SurfaceView@eea14f1: aOrMT: ViewRootImpl@3fa491a[MainActivity] t = android.view.SurfaceControl$Transaction@a9b6e73 fN = 677 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 android.graphics.RenderNode$CompositePositionUpdateListener.positionChanged:373 
+10-16 02:17:50.050 20102 20186 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7ae1ac3100 mBlastBufferQueue=0x7b47120e00 fn= 677 caller= android.view.SurfaceView.applyOrMergeTransaction:1455 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 
+10-16 02:17:50.050 20102 20186 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7bed84de00 mBlastBufferQueue=0x7b47120e00 fn= 677 caller= android.view.ViewRootImpl.lambda$applyTransactionOnDraw$11$android-view-ViewRootImpl:12865 android.view.ViewRootImpl$$ExternalSyntheticLambda1.onFrameDraw:4 android.graphics.HardwareRenderer$FrameDrawingCallback.onFrameDraw:924 
+10-16 02:17:50.061 20102 20102 I SurfaceView@eea14f1: Changes: creating=false format=false size=false visible=false alpha=false hint=false mUseAlpha=false visible=false left=false top=true
+10-16 02:17:50.061 20102 20102 I SurfaceView@eea14f1: 250221809 Cur surface: Surface(name=null)/@0x9130f56
+10-16 02:17:50.062 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: vri = ViewRootImpl@3fa491a[MainActivity] fRS = false t = 0x7bed84df00 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 
+10-16 02:17:50.062 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: applyTransactionOnDraw: mRemoved = false isHardwareEnabled = true t = 0x7bed84df00android.view.SurfaceView.applyTransactionOnVriDraw:2048 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 android.view.SurfaceView$$ExternalSyntheticLambda5.onPreDraw:2 
+10-16 02:17:50.062 20102 20102 I SurfaceView@eea14f1: updateSurface: mVisible = true mSurface.isValid() = true
+10-16 02:17:50.062 20102 20102 I SurfaceView@eea14f1: updateSurface: mSurfaceCreated = true surfaceChanged = false visibleChanged = false
+10-16 02:17:50.063 20102 20102 V SurfaceView@eea14f1: Layout: x=0 y=-584 w=1080 h=525, frame=Rect(0, 0 - 1080, 525)
+10-16 02:17:50.067 20102 20185 D SurfaceView@eea14f1: updateSurfacePosition RenderWorker, frameNr = 678, position = [0, -584, 1080, -59] surfaceSize = 1080x525
+10-16 02:17:50.067 20102 20185 I SurfaceView@eea14f1: uSP: rtp = Rect(0, -584 - 1080, -59) rtsw = 1080 rtsh = 525
+10-16 02:17:50.067 20102 20185 I SurfaceView@eea14f1: onSSPAndSRT: pl = 0 pt = -584 sx = 1.0 sy = 1.0
+10-16 02:17:50.067 20102 20185 I SurfaceView@eea14f1: aOrMT: ViewRootImpl@3fa491a[MainActivity] t = android.view.SurfaceControl$Transaction@a9b6e73 fN = 678 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 android.graphics.RenderNode$CompositePositionUpdateListener.positionChanged:373 
+10-16 02:17:50.067 20102 20185 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7ae1ac3100 mBlastBufferQueue=0x7b47120e00 fn= 678 caller= android.view.SurfaceView.applyOrMergeTransaction:1455 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 
+10-16 02:17:50.068 20102 20185 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7bed84df00 mBlastBufferQueue=0x7b47120e00 fn= 678 caller= android.view.ViewRootImpl.lambda$applyTransactionOnDraw$11$android-view-ViewRootImpl:12865 android.view.ViewRootImpl$$ExternalSyntheticLambda1.onFrameDraw:4 android.graphics.HardwareRenderer$FrameDrawingCallback.onFrameDraw:924 
+10-16 02:17:50.077 20102 20102 I SurfaceView@eea14f1: Changes: creating=false format=false size=false visible=false alpha=false hint=false mUseAlpha=false visible=false left=false top=true
+10-16 02:17:50.077 20102 20102 I SurfaceView@eea14f1: 250221809 Cur surface: Surface(name=null)/@0x9130f56
+10-16 02:17:50.077 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: vri = ViewRootImpl@3fa491a[MainActivity] fRS = false t = 0x7bed8b2200 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 
+10-16 02:17:50.077 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: applyTransactionOnDraw: mRemoved = false isHardwareEnabled = true t = 0x7bed8b2200android.view.SurfaceView.applyTransactionOnVriDraw:2048 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 android.view.SurfaceView$$ExternalSyntheticLambda5.onPreDraw:2 
+10-16 02:17:50.077 20102 20102 I SurfaceView@eea14f1: updateSurface: mVisible = true mSurface.isValid() = true
+10-16 02:17:50.077 20102 20102 I SurfaceView@eea14f1: updateSurface: mSurfaceCreated = true surfaceChanged = false visibleChanged = false
+10-16 02:17:50.078 20102 20102 V SurfaceView@eea14f1: Layout: x=0 y=-727 w=1080 h=525, frame=Rect(0, 0 - 1080, 525)
+10-16 02:17:50.080 20102 20186 D SurfaceView@eea14f1: updateSurfacePosition RenderWorker, frameNr = 679, position = [0, -727, 1080, -202] surfaceSize = 1080x525
+10-16 02:17:50.081 20102 20186 I SurfaceView@eea14f1: uSP: rtp = Rect(0, -727 - 1080, -202) rtsw = 1080 rtsh = 525
+10-16 02:17:50.081 20102 20186 I SurfaceView@eea14f1: onSSPAndSRT: pl = 0 pt = -727 sx = 1.0 sy = 1.0
+10-16 02:17:50.081 20102 20186 I SurfaceView@eea14f1: aOrMT: ViewRootImpl@3fa491a[MainActivity] t = android.view.SurfaceControl$Transaction@a9b6e73 fN = 679 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 android.graphics.RenderNode$CompositePositionUpdateListener.positionChanged:373 
+10-16 02:17:50.081 20102 20186 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7ae1ac3100 mBlastBufferQueue=0x7b47120e00 fn= 679 caller= android.view.SurfaceView.applyOrMergeTransaction:1455 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 
+10-16 02:17:50.081 20102 20186 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7bed8b2200 mBlastBufferQueue=0x7b47120e00 fn= 679 caller= android.view.ViewRootImpl.lambda$applyTransactionOnDraw$11$android-view-ViewRootImpl:12865 android.view.ViewRootImpl$$ExternalSyntheticLambda1.onFrameDraw:4 android.graphics.HardwareRenderer$FrameDrawingCallback.onFrameDraw:924 
+10-16 02:17:50.093 20102 20102 I SurfaceView@eea14f1: Changes: creating=false format=false size=false visible=false alpha=false hint=false mUseAlpha=false visible=false left=false top=true
+10-16 02:17:50.093 20102 20102 I SurfaceView@eea14f1: 250221809 Cur surface: Surface(name=null)/@0x9130f56
+10-16 02:17:50.094 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: vri = ViewRootImpl@3fa491a[MainActivity] fRS = false t = 0x7bed8b2400 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 
+10-16 02:17:50.094 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: applyTransactionOnDraw: mRemoved = false isHardwareEnabled = true t = 0x7bed8b2400android.view.SurfaceView.applyTransactionOnVriDraw:2048 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 android.view.SurfaceView$$ExternalSyntheticLambda5.onPreDraw:2 
+10-16 02:17:50.094 20102 20102 I SurfaceView@eea14f1: updateSurface: mVisible = true mSurface.isValid() = true
+10-16 02:17:50.094 20102 20102 I SurfaceView@eea14f1: updateSurface: mSurfaceCreated = true surfaceChanged = false visibleChanged = false
+10-16 02:17:50.094 20102 20102 V SurfaceView@eea14f1: Layout: x=0 y=-867 w=1080 h=525, frame=Rect(0, 0 - 1080, 525)
+10-16 02:17:50.097 20102 20185 D SurfaceView@eea14f1: updateSurfacePosition RenderWorker, frameNr = 680, position = [0, -867, 1080, -342] surfaceSize = 1080x525
+10-16 02:17:50.097 20102 20185 I SurfaceView@eea14f1: uSP: rtp = Rect(0, -867 - 1080, -342) rtsw = 1080 rtsh = 525
+10-16 02:17:50.097 20102 20185 I SurfaceView@eea14f1: onSSPAndSRT: pl = 0 pt = -867 sx = 1.0 sy = 1.0
+10-16 02:17:50.097 20102 20185 I SurfaceView@eea14f1: aOrMT: ViewRootImpl@3fa491a[MainActivity] t = android.view.SurfaceControl$Transaction@a9b6e73 fN = 680 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 android.graphics.RenderNode$CompositePositionUpdateListener.positionChanged:373 
+10-16 02:17:50.097 20102 20185 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7ae1ac3100 mBlastBufferQueue=0x7b47120e00 fn= 680 caller= android.view.SurfaceView.applyOrMergeTransaction:1455 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 
+10-16 02:17:50.098 20102 20185 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7bed8b2400 mBlastBufferQueue=0x7b47120e00 fn= 680 caller= android.view.ViewRootImpl.lambda$applyTransactionOnDraw$11$android-view-ViewRootImpl:12865 android.view.ViewRootImpl$$ExternalSyntheticLambda1.onFrameDraw:4 android.graphics.HardwareRenderer$FrameDrawingCallback.onFrameDraw:924 
+10-16 02:17:50.110 20102 20102 I SurfaceView@eea14f1: Changes: creating=false format=false size=false visible=false alpha=false hint=false mUseAlpha=false visible=false left=false top=true
+10-16 02:17:50.110 20102 20102 I SurfaceView@eea14f1: 250221809 Cur surface: Surface(name=null)/@0x9130f56
+10-16 02:17:50.110 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: vri = ViewRootImpl@3fa491a[MainActivity] fRS = false t = 0x7bed8b2500 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 
+10-16 02:17:50.110 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: applyTransactionOnDraw: mRemoved = false isHardwareEnabled = true t = 0x7bed8b2500android.view.SurfaceView.applyTransactionOnVriDraw:2048 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 android.view.SurfaceView$$ExternalSyntheticLambda5.onPreDraw:2 
+10-16 02:17:50.110 20102 20102 I SurfaceView@eea14f1: updateSurface: mVisible = true mSurface.isValid() = true
+10-16 02:17:50.110 20102 20102 I SurfaceView@eea14f1: updateSurface: mSurfaceCreated = true surfaceChanged = false visibleChanged = false
+10-16 02:17:50.110 20102 20102 V SurfaceView@eea14f1: Layout: x=0 y=-1013 w=1080 h=525, frame=Rect(0, 0 - 1080, 525)
+10-16 02:17:50.113 20102 20186 D SurfaceView@eea14f1: updateSurfacePosition RenderWorker, frameNr = 681, position = [0, -1013, 1080, -488] surfaceSize = 1080x525
+10-16 02:17:50.113 20102 20186 I SurfaceView@eea14f1: uSP: rtp = Rect(0, -1013 - 1080, -488) rtsw = 1080 rtsh = 525
+10-16 02:17:50.113 20102 20186 I SurfaceView@eea14f1: onSSPAndSRT: pl = 0 pt = -1013 sx = 1.0 sy = 1.0
+10-16 02:17:50.114 20102 20186 I SurfaceView@eea14f1: aOrMT: ViewRootImpl@3fa491a[MainActivity] t = android.view.SurfaceControl$Transaction@a9b6e73 fN = 681 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 android.graphics.RenderNode$CompositePositionUpdateListener.positionChanged:373 
+10-16 02:17:50.114 20102 20186 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7ae1ac3100 mBlastBufferQueue=0x7b47120e00 fn= 681 caller= android.view.SurfaceView.applyOrMergeTransaction:1455 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 
+10-16 02:17:50.114 20102 20186 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7bed8b2500 mBlastBufferQueue=0x7b47120e00 fn= 681 caller= android.view.ViewRootImpl.lambda$applyTransactionOnDraw$11$android-view-ViewRootImpl:12865 android.view.ViewRootImpl$$ExternalSyntheticLambda1.onFrameDraw:4 android.graphics.HardwareRenderer$FrameDrawingCallback.onFrameDraw:924 
+10-16 02:17:50.127 20102 20102 I SurfaceView@eea14f1: Changes: creating=false format=false size=false visible=false alpha=false hint=false mUseAlpha=false visible=false left=false top=true
+10-16 02:17:50.127 20102 20102 I SurfaceView@eea14f1: 250221809 Cur surface: Surface(name=null)/@0x9130f56
+10-16 02:17:50.127 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: vri = ViewRootImpl@3fa491a[MainActivity] fRS = false t = 0x7bed8b2600 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 
+10-16 02:17:50.128 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: applyTransactionOnDraw: mRemoved = false isHardwareEnabled = true t = 0x7bed8b2600android.view.SurfaceView.applyTransactionOnVriDraw:2048 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 android.view.SurfaceView$$ExternalSyntheticLambda5.onPreDraw:2 
+10-16 02:17:50.128 20102 20102 I SurfaceView@eea14f1: updateSurface: mVisible = true mSurface.isValid() = true
+10-16 02:17:50.128 20102 20102 I SurfaceView@eea14f1: updateSurface: mSurfaceCreated = true surfaceChanged = false visibleChanged = false
+10-16 02:17:50.128 20102 20102 V SurfaceView@eea14f1: Layout: x=0 y=-1156 w=1080 h=525, frame=Rect(0, 0 - 1080, 525)
+10-16 02:17:50.131 20102 20185 D SurfaceView@eea14f1: updateSurfacePosition RenderWorker, frameNr = 682, position = [0, -1156, 1080, -631] surfaceSize = 1080x525
+10-16 02:17:50.131 20102 20185 I SurfaceView@eea14f1: uSP: rtp = Rect(0, -1156 - 1080, -631) rtsw = 1080 rtsh = 525
+10-16 02:17:50.131 20102 20185 I SurfaceView@eea14f1: onSSPAndSRT: pl = 0 pt = -1156 sx = 1.0 sy = 1.0
+10-16 02:17:50.131 20102 20185 I SurfaceView@eea14f1: aOrMT: ViewRootImpl@3fa491a[MainActivity] t = android.view.SurfaceControl$Transaction@a9b6e73 fN = 682 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 android.graphics.RenderNode$CompositePositionUpdateListener.positionChanged:373 
+10-16 02:17:50.131 20102 20185 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7ae1ac3100 mBlastBufferQueue=0x7b47120e00 fn= 682 caller= android.view.SurfaceView.applyOrMergeTransaction:1455 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 
+10-16 02:17:50.132 20102 20185 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7bed8b2600 mBlastBufferQueue=0x7b47120e00 fn= 682 caller= android.view.ViewRootImpl.lambda$applyTransactionOnDraw$11$android-view-ViewRootImpl:12865 android.view.ViewRootImpl$$ExternalSyntheticLambda1.onFrameDraw:4 android.graphics.HardwareRenderer$FrameDrawingCallback.onFrameDraw:924 
+10-16 02:17:50.144 20102 20102 I SurfaceView@eea14f1: Changes: creating=false format=false size=false visible=false alpha=false hint=false mUseAlpha=false visible=false left=false top=true
+10-16 02:17:50.144 20102 20102 I SurfaceView@eea14f1: 250221809 Cur surface: Surface(name=null)/@0x9130f56
+10-16 02:17:50.145 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: vri = ViewRootImpl@3fa491a[MainActivity] fRS = false t = 0x7bdaa1b000 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 
+10-16 02:17:50.145 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: applyTransactionOnDraw: mRemoved = false isHardwareEnabled = true t = 0x7bdaa1b000android.view.SurfaceView.applyTransactionOnVriDraw:2048 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 android.view.SurfaceView$$ExternalSyntheticLambda5.onPreDraw:2 
+10-16 02:17:50.145 20102 20102 I SurfaceView@eea14f1: updateSurface: mVisible = true mSurface.isValid() = true
+10-16 02:17:50.145 20102 20102 I SurfaceView@eea14f1: updateSurface: mSurfaceCreated = true surfaceChanged = false visibleChanged = false
+10-16 02:17:50.145 20102 20102 V SurfaceView@eea14f1: Layout: x=0 y=-1287 w=1080 h=525, frame=Rect(0, 0 - 1080, 525)
+10-16 02:17:50.148 20102 20186 D SurfaceView@eea14f1: updateSurfacePosition RenderWorker, frameNr = 683, position = [0, -1287, 1080, -762] surfaceSize = 1080x525
+10-16 02:17:50.148 20102 20186 I SurfaceView@eea14f1: uSP: rtp = Rect(0, -1287 - 1080, -762) rtsw = 1080 rtsh = 525
+10-16 02:17:50.148 20102 20186 I SurfaceView@eea14f1: onSSPAndSRT: pl = 0 pt = -1287 sx = 1.0 sy = 1.0
+10-16 02:17:50.148 20102 20186 I SurfaceView@eea14f1: aOrMT: ViewRootImpl@3fa491a[MainActivity] t = android.view.SurfaceControl$Transaction@a9b6e73 fN = 683 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 android.graphics.RenderNode$CompositePositionUpdateListener.positionChanged:373 
+10-16 02:17:50.149 20102 20186 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7ae1ac3100 mBlastBufferQueue=0x7b47120e00 fn= 683 caller= android.view.SurfaceView.applyOrMergeTransaction:1455 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 
+10-16 02:17:50.149 20102 20186 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7bdaa1b000 mBlastBufferQueue=0x7b47120e00 fn= 683 caller= android.view.ViewRootImpl.lambda$applyTransactionOnDraw$11$android-view-ViewRootImpl:12865 android.view.ViewRootImpl$$ExternalSyntheticLambda1.onFrameDraw:4 android.graphics.HardwareRenderer$FrameDrawingCallback.onFrameDraw:924 
+10-16 02:17:50.161 20102 20102 I SurfaceView@eea14f1: Changes: creating=false format=false size=false visible=false alpha=false hint=false mUseAlpha=false visible=false left=false top=true
+10-16 02:17:50.161 20102 20102 I SurfaceView@eea14f1: 250221809 Cur surface: Surface(name=null)/@0x9130f56
+10-16 02:17:50.161 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: vri = ViewRootImpl@3fa491a[MainActivity] fRS = false t = 0x7bdaa1b200 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 
+10-16 02:17:50.161 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: applyTransactionOnDraw: mRemoved = false isHardwareEnabled = true t = 0x7bdaa1b200android.view.SurfaceView.applyTransactionOnVriDraw:2048 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 android.view.SurfaceView$$ExternalSyntheticLambda5.onPreDraw:2 
+10-16 02:17:50.161 20102 20102 I SurfaceView@eea14f1: updateSurface: mVisible = true mSurface.isValid() = true
+10-16 02:17:50.162 20102 20102 I SurfaceView@eea14f1: updateSurface: mSurfaceCreated = true surfaceChanged = false visibleChanged = false
+10-16 02:17:50.162 20102 20102 V SurfaceView@eea14f1: Layout: x=0 y=-1422 w=1080 h=525, frame=Rect(0, 0 - 1080, 525)
+10-16 02:17:50.165 20102 20185 D SurfaceView@eea14f1: updateSurfacePosition RenderWorker, frameNr = 684, position = [0, -1422, 1080, -897] surfaceSize = 1080x525
+10-16 02:17:50.165 20102 20185 I SurfaceView@eea14f1: uSP: rtp = Rect(0, -1422 - 1080, -897) rtsw = 1080 rtsh = 525
+10-16 02:17:50.165 20102 20185 I SurfaceView@eea14f1: onSSPAndSRT: pl = 0 pt = -1422 sx = 1.0 sy = 1.0
+10-16 02:17:50.166 20102 20185 I SurfaceView@eea14f1: aOrMT: ViewRootImpl@3fa491a[MainActivity] t = android.view.SurfaceControl$Transaction@a9b6e73 fN = 684 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 android.graphics.RenderNode$CompositePositionUpdateListener.positionChanged:373 
+10-16 02:17:50.166 20102 20185 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7ae1ac3100 mBlastBufferQueue=0x7b47120e00 fn= 684 caller= android.view.SurfaceView.applyOrMergeTransaction:1455 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 
+10-16 02:17:50.166 20102 20185 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7bdaa1b200 mBlastBufferQueue=0x7b47120e00 fn= 684 caller= android.view.ViewRootImpl.lambda$applyTransactionOnDraw$11$android-view-ViewRootImpl:12865 android.view.ViewRootImpl$$ExternalSyntheticLambda1.onFrameDraw:4 android.graphics.HardwareRenderer$FrameDrawingCallback.onFrameDraw:924 
+10-16 02:17:50.177 20102 20102 I SurfaceView@eea14f1: Changes: creating=false format=false size=false visible=false alpha=false hint=false mUseAlpha=false visible=false left=false top=true
+10-16 02:17:50.178 20102 20102 I SurfaceView@eea14f1: 250221809 Cur surface: Surface(name=null)/@0x9130f56
+10-16 02:17:50.178 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: vri = ViewRootImpl@3fa491a[MainActivity] fRS = false t = 0x7bdaa1b300 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 
+10-16 02:17:50.178 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: applyTransactionOnDraw: mRemoved = false isHardwareEnabled = true t = 0x7bdaa1b300android.view.SurfaceView.applyTransactionOnVriDraw:2048 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 android.view.SurfaceView$$ExternalSyntheticLambda5.onPreDraw:2 
+10-16 02:17:50.178 20102 20102 I SurfaceView@eea14f1: updateSurface: mVisible = true mSurface.isValid() = true
+10-16 02:17:50.178 20102 20102 I SurfaceView@eea14f1: updateSurface: mSurfaceCreated = true surfaceChanged = false visibleChanged = false
+10-16 02:17:50.178 20102 20102 V SurfaceView@eea14f1: Layout: x=0 y=-1553 w=1080 h=525, frame=Rect(0, 0 - 1080, 525)
+10-16 02:17:50.182 20102 20186 D SurfaceView@eea14f1: updateSurfacePosition RenderWorker, frameNr = 685, position = [0, -1553, 1080, -1028] surfaceSize = 1080x525
+10-16 02:17:50.182 20102 20186 I SurfaceView@eea14f1: uSP: rtp = Rect(0, -1553 - 1080, -1028) rtsw = 1080 rtsh = 525
+10-16 02:17:50.182 20102 20186 I SurfaceView@eea14f1: onSSPAndSRT: pl = 0 pt = -1553 sx = 1.0 sy = 1.0
+10-16 02:17:50.183 20102 20186 I SurfaceView@eea14f1: aOrMT: ViewRootImpl@3fa491a[MainActivity] t = android.view.SurfaceControl$Transaction@a9b6e73 fN = 685 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 android.graphics.RenderNode$CompositePositionUpdateListener.positionChanged:373 
+10-16 02:17:50.183 20102 20186 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7ae1ac3100 mBlastBufferQueue=0x7b47120e00 fn= 685 caller= android.view.SurfaceView.applyOrMergeTransaction:1455 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 
+10-16 02:17:50.183 20102 20186 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7bdaa1b300 mBlastBufferQueue=0x7b47120e00 fn= 685 caller= android.view.ViewRootImpl.lambda$applyTransactionOnDraw$11$android-view-ViewRootImpl:12865 android.view.ViewRootImpl$$ExternalSyntheticLambda1.onFrameDraw:4 android.graphics.HardwareRenderer$FrameDrawingCallback.onFrameDraw:924 
+10-16 02:17:50.194 20102 20102 I SurfaceView@eea14f1: Changes: creating=false format=false size=false visible=false alpha=false hint=false mUseAlpha=false visible=false left=false top=true
+10-16 02:17:50.194 20102 20102 I SurfaceView@eea14f1: 250221809 Cur surface: Surface(name=null)/@0x9130f56
+10-16 02:17:50.195 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: vri = ViewRootImpl@3fa491a[MainActivity] fRS = false t = 0x7bdaa1b400 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 
+10-16 02:17:50.195 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: applyTransactionOnDraw: mRemoved = false isHardwareEnabled = true t = 0x7bdaa1b400android.view.SurfaceView.applyTransactionOnVriDraw:2048 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 android.view.SurfaceView$$ExternalSyntheticLambda5.onPreDraw:2 
+10-16 02:17:50.195 20102 20102 I SurfaceView@eea14f1: updateSurface: mVisible = true mSurface.isValid() = true
+10-16 02:17:50.195 20102 20102 I SurfaceView@eea14f1: updateSurface: mSurfaceCreated = true surfaceChanged = false visibleChanged = false
+10-16 02:17:50.195 20102 20102 V SurfaceView@eea14f1: Layout: x=0 y=-1672 w=1080 h=525, frame=Rect(0, 0 - 1080, 525)
+10-16 02:17:50.199 20102 20185 D SurfaceView@eea14f1: updateSurfacePosition RenderWorker, frameNr = 686, position = [0, -1672, 1080, -1147] surfaceSize = 1080x525
+10-16 02:17:50.199 20102 20185 I SurfaceView@eea14f1: uSP: rtp = Rect(0, -1672 - 1080, -1147) rtsw = 1080 rtsh = 525
+10-16 02:17:50.199 20102 20185 I SurfaceView@eea14f1: onSSPAndSRT: pl = 0 pt = -1672 sx = 1.0 sy = 1.0
+10-16 02:17:50.199 20102 20185 I SurfaceView@eea14f1: aOrMT: ViewRootImpl@3fa491a[MainActivity] t = android.view.SurfaceControl$Transaction@a9b6e73 fN = 686 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 android.graphics.RenderNode$CompositePositionUpdateListener.positionChanged:373 
+10-16 02:17:50.199 20102 20185 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7ae1ac3100 mBlastBufferQueue=0x7b47120e00 fn= 686 caller= android.view.SurfaceView.applyOrMergeTransaction:1455 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 
+10-16 02:17:50.200 20102 20185 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7bdaa1b400 mBlastBufferQueue=0x7b47120e00 fn= 686 caller= android.view.ViewRootImpl.lambda$applyTransactionOnDraw$11$android-view-ViewRootImpl:12865 android.view.ViewRootImpl$$ExternalSyntheticLambda1.onFrameDraw:4 android.graphics.HardwareRenderer$FrameDrawingCallback.onFrameDraw:924 
+10-16 02:17:50.210 20102 20102 I SurfaceView@eea14f1: Changes: creating=false format=false size=false visible=false alpha=false hint=false mUseAlpha=false visible=false left=false top=true
+10-16 02:17:50.210 20102 20102 I SurfaceView@eea14f1: 250221809 Cur surface: Surface(name=null)/@0x9130f56
+10-16 02:17:50.211 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: vri = ViewRootImpl@3fa491a[MainActivity] fRS = false t = 0x7bdaa1b500 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 
+10-16 02:17:50.211 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: applyTransactionOnDraw: mRemoved = false isHardwareEnabled = true t = 0x7bdaa1b500android.view.SurfaceView.applyTransactionOnVriDraw:2048 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 android.view.SurfaceView$$ExternalSyntheticLambda5.onPreDraw:2 
+10-16 02:17:50.211 20102 20102 I SurfaceView@eea14f1: updateSurface: mVisible = true mSurface.isValid() = true
+10-16 02:17:50.211 20102 20102 I SurfaceView@eea14f1: updateSurface: mSurfaceCreated = true surfaceChanged = false visibleChanged = false
+10-16 02:17:50.211 20102 20102 V SurfaceView@eea14f1: Layout: x=0 y=-1796 w=1080 h=525, frame=Rect(0, 0 - 1080, 525)
+10-16 02:17:50.213 20102 20186 D SurfaceView@eea14f1: updateSurfacePosition RenderWorker, frameNr = 687, position = [0, -1796, 1080, -1271] surfaceSize = 1080x525
+10-16 02:17:50.213 20102 20186 I SurfaceView@eea14f1: uSP: rtp = Rect(0, -1796 - 1080, -1271) rtsw = 1080 rtsh = 525
+10-16 02:17:50.213 20102 20186 I SurfaceView@eea14f1: onSSPAndSRT: pl = 0 pt = -1796 sx = 1.0 sy = 1.0
+10-16 02:17:50.213 20102 20186 I SurfaceView@eea14f1: aOrMT: ViewRootImpl@3fa491a[MainActivity] t = android.view.SurfaceControl$Transaction@a9b6e73 fN = 687 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 android.graphics.RenderNode$CompositePositionUpdateListener.positionChanged:373 
+10-16 02:17:50.213 20102 20186 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7ae1ac3100 mBlastBufferQueue=0x7b47120e00 fn= 687 caller= android.view.SurfaceView.applyOrMergeTransaction:1455 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 
+10-16 02:17:50.214 20102 20186 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7bdaa1b500 mBlastBufferQueue=0x7b47120e00 fn= 687 caller= android.view.ViewRootImpl.lambda$applyTransactionOnDraw$11$android-view-ViewRootImpl:12865 android.view.ViewRootImpl$$ExternalSyntheticLambda1.onFrameDraw:4 android.graphics.HardwareRenderer$FrameDrawingCallback.onFrameDraw:924 
+10-16 02:17:50.227 20102 20102 I SurfaceView@eea14f1: Changes: creating=false format=false size=false visible=false alpha=false hint=false mUseAlpha=false visible=false left=false top=true
+10-16 02:17:50.227 20102 20102 I SurfaceView@eea14f1: 250221809 Cur surface: Surface(name=null)/@0x9130f56
+10-16 02:17:50.228 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: vri = ViewRootImpl@3fa491a[MainActivity] fRS = false t = 0x7bdaa1b600 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 
+10-16 02:17:50.228 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: applyTransactionOnDraw: mRemoved = false isHardwareEnabled = true t = 0x7bdaa1b600android.view.SurfaceView.applyTransactionOnVriDraw:2048 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 android.view.SurfaceView$$ExternalSyntheticLambda5.onPreDraw:2 
+10-16 02:17:50.228 20102 20102 I SurfaceView@eea14f1: updateSurface: mVisible = true mSurface.isValid() = true
+10-16 02:17:50.228 20102 20102 I SurfaceView@eea14f1: updateSurface: mSurfaceCreated = true surfaceChanged = false visibleChanged = false
+10-16 02:17:50.228 20102 20102 V SurfaceView@eea14f1: Layout: x=0 y=-1915 w=1080 h=525, frame=Rect(0, 0 - 1080, 525)
+10-16 02:17:50.232 20102 20185 D SurfaceView@eea14f1: updateSurfacePosition RenderWorker, frameNr = 688, position = [0, -1915, 1080, -1390] surfaceSize = 1080x525
+10-16 02:17:50.232 20102 20185 I SurfaceView@eea14f1: uSP: rtp = Rect(0, -1915 - 1080, -1390) rtsw = 1080 rtsh = 525
+10-16 02:17:50.232 20102 20185 I SurfaceView@eea14f1: onSSPAndSRT: pl = 0 pt = -1915 sx = 1.0 sy = 1.0
+10-16 02:17:50.232 20102 20185 I SurfaceView@eea14f1: aOrMT: ViewRootImpl@3fa491a[MainActivity] t = android.view.SurfaceControl$Transaction@a9b6e73 fN = 688 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 android.graphics.RenderNode$CompositePositionUpdateListener.positionChanged:373 
+10-16 02:17:50.233 20102 20185 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7ae1ac3100 mBlastBufferQueue=0x7b47120e00 fn= 688 caller= android.view.SurfaceView.applyOrMergeTransaction:1455 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 
+10-16 02:17:50.233 20102 20185 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7bdaa1b600 mBlastBufferQueue=0x7b47120e00 fn= 688 caller= android.view.ViewRootImpl.lambda$applyTransactionOnDraw$11$android-view-ViewRootImpl:12865 android.view.ViewRootImpl$$ExternalSyntheticLambda1.onFrameDraw:4 android.graphics.HardwareRenderer$FrameDrawingCallback.onFrameDraw:924 
+10-16 02:17:50.244 20102 20102 I SurfaceView@eea14f1: Changes: creating=false format=false size=false visible=false alpha=false hint=false mUseAlpha=false visible=false left=false top=true
+10-16 02:17:50.244 20102 20102 I SurfaceView@eea14f1: 250221809 Cur surface: Surface(name=null)/@0x9130f56
+10-16 02:17:50.245 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: vri = ViewRootImpl@3fa491a[MainActivity] fRS = false t = 0x7bdaa1b700 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 
+10-16 02:17:50.245 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: applyTransactionOnDraw: mRemoved = false isHardwareEnabled = true t = 0x7bdaa1b700android.view.SurfaceView.applyTransactionOnVriDraw:2048 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.lambda$new$0$android-view-SurfaceView:200 android.view.SurfaceView$$ExternalSyntheticLambda5.onPreDraw:2 
+10-16 02:17:50.245 20102 20102 I SurfaceView@eea14f1: updateSurface: mVisible = true mSurface.isValid() = true
+10-16 02:17:50.245 20102 20102 I SurfaceView@eea14f1: updateSurface: mSurfaceCreated = true surfaceChanged = false visibleChanged = false
+10-16 02:17:50.245 20102 20102 V SurfaceView@eea14f1: Layout: x=0 y=-1918 w=1080 h=525, frame=Rect(0, 0 - 1080, 525)
+10-16 02:17:50.247 20102 20186 D SurfaceView@eea14f1: updateSurfacePosition RenderWorker, frameNr = 689, position = [0, -1918, 1080, -1393] surfaceSize = 1080x525
+10-16 02:17:50.247 20102 20186 I SurfaceView@eea14f1: uSP: rtp = Rect(0, -1918 - 1080, -1393) rtsw = 1080 rtsh = 525
+10-16 02:17:50.247 20102 20186 I SurfaceView@eea14f1: onSSPAndSRT: pl = 0 pt = -1918 sx = 1.0 sy = 1.0
+10-16 02:17:50.247 20102 20186 I SurfaceView@eea14f1: aOrMT: ViewRootImpl@3fa491a[MainActivity] t = android.view.SurfaceControl$Transaction@a9b6e73 fN = 689 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 android.graphics.RenderNode$CompositePositionUpdateListener.positionChanged:373 
+10-16 02:17:50.248 20102 20186 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7ae1ac3100 mBlastBufferQueue=0x7b47120e00 fn= 689 caller= android.view.SurfaceView.applyOrMergeTransaction:1455 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 
+10-16 02:17:50.248 20102 20186 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7bdaa1b700 mBlastBufferQueue=0x7b47120e00 fn= 689 caller= android.view.ViewRootImpl.lambda$applyTransactionOnDraw$11$android-view-ViewRootImpl:12865 android.view.ViewRootImpl$$ExternalSyntheticLambda1.onFrameDraw:4 android.graphics.HardwareRenderer$FrameDrawingCallback.onFrameDraw:924 
+10-16 02:17:51.210 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 0
+10-16 02:17:51.250 20102 20102 W PanelsChildGestureRegionObserver: failed to register view with ID 2131362800. already registered
+10-16 02:17:51.257 20102 20102 W PanelsChildGestureRegionObserver: failed to register view with ID 2131362800. already registered
+10-16 02:17:51.273 20102 20102 W PanelsChildGestureRegionObserver: failed to register view with ID 2131362800. already registered
+10-16 02:17:51.290 20102 20102 W PanelsChildGestureRegionObserver: failed to register view with ID 2131362800. already registered
+10-16 02:17:51.303 20102 20102 D WindowOnBackDispatcher: onBackInvoked, viewRoot=ViewRootImpl@22e8387[Toast], callback=androidx.activity.OnBackPressedDispatcher$Api33Impl$$ExternalSyntheticLambda0@f10226c
+10-16 02:17:51.309 20102 20102 I IMM_LC  : hsifw() - flag : 0
+10-16 02:17:51.309 20102 20102 I IMM_LC  : hsifw() - mService.hideSoftInput
+10-16 02:17:51.313 20102 20102 I CS3ExoPlayer: onStop
+10-16 02:17:51.313 20102 20102 I CS3ExoPlayer: saveData
+10-16 02:17:51.314 20102 20102 I CS3ExoPlayer: handleEvent Pause
+10-16 02:17:51.393 20102 20102 W PanelsChildGestureRegionObserver: failed to register view with ID 2131362800. already registered
+10-16 02:17:51.641 20102 20102 W PanelsChildGestureRegionObserver: failed to register view with ID 2131362800. already registered
+10-16 02:17:51.657 20102 20185 D SurfaceView@eea14f1: updateSurfacePosition RenderWorker, frameNr = 734, position = [54, -1609, 1026, -1135] surfaceSize = 1080x525
+10-16 02:17:51.658 20102 20185 I SurfaceView@eea14f1: uSP: rtp = Rect(54, -1609 - 1026, -1135) rtsw = 1080 rtsh = 525
+10-16 02:17:51.658 20102 20185 I SurfaceView@eea14f1: onSSPAndSRT: pl = 54 pt = -1609 sx = 0.9 sy = 0.9028571
+10-16 02:17:51.658 20102 20185 I SurfaceView@eea14f1: aOrMT: ViewRootImpl@3fa491a[MainActivity] t = android.view.SurfaceControl$Transaction@a9b6e73 fN = 734 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 android.graphics.RenderNode$CompositePositionUpdateListener.positionChanged:373 
+10-16 02:17:51.658 20102 20185 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7ae1ac3100 mBlastBufferQueue=0x7b47120e00 fn= 734 caller= android.view.SurfaceView.applyOrMergeTransaction:1455 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1537 
+10-16 02:17:51.659 20102 20102 I SurfaceView@eea14f1: onWindowVisibilityChanged(8) false android.view.SurfaceView{eea14f1 V.E..V... ........ 0,0-1080,525} of ViewRootImpl@3fa491a[MainActivity]
+10-16 02:17:51.660 20102 20102 I SurfaceView@eea14f1: Changes: creating=false format=false size=false visible=true alpha=false hint=false mUseAlpha=false visible=true left=false top=false
+10-16 02:17:51.660 20102 20102 I SurfaceView@eea14f1: 250221809 Cur surface: Surface(name=null)/@0x9130f56
+10-16 02:17:51.660 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: vri = ViewRootImpl@3fa491a[MainActivity] fRS = false t = 0x7b68c61200 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.onWindowVisibilityChanged:371 
+10-16 02:17:51.660 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: applyTransactionOnDraw: mRemoved = false isHardwareEnabled = true t = 0x7b68c61200android.view.SurfaceView.applyTransactionOnVriDraw:2048 android.view.SurfaceView.performSurfaceTransaction:959 android.view.SurfaceView.updateSurface:1105 android.view.SurfaceView.onWindowVisibilityChanged:371 android.view.View.dispatchDetachedFromWindow:22529 
+10-16 02:17:51.660 20102 20102 I SurfaceView@eea14f1: surfaceDestroyed
+10-16 02:17:51.661 20102 20102 I SurfaceView@eea14f1: surfaceDestroyed callback.size 0 #2 android.view.SurfaceView{eea14f1 V.E..V... ........ 0,0-1080,525}
+10-16 02:17:51.661 20102 20102 I SurfaceView@eea14f1: updateSurface: mVisible = false mSurface.isValid() = true
+10-16 02:17:51.661 20102 20102 I SurfaceView@eea14f1: releaseSurfaces: viewRoot = ViewRootImpl@3fa491a[MainActivity]
+10-16 02:17:51.661 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: vri = ViewRootImpl@3fa491a[MainActivity] fRS = true t = 0x7b68c61800 android.view.SurfaceView.releaseSurfaces:858 android.view.SurfaceView.updateSurface:1172 android.view.SurfaceView.onWindowVisibilityChanged:371 
+10-16 02:17:51.661 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: viewRoot.applyTransactionOnDrawFromReleaseSurfaces
+10-16 02:17:51.662 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: applyTransactionOnDraw: mRemoved = false isHardwareEnabled = true t = 0x7b68c61800android.view.ViewRootImpl.applyTransactionOnDrawFromReleaseSurfaces:12850 android.view.SurfaceView.applyTransactionOnVriDraw:2046 android.view.SurfaceView.releaseSurfaces:858 android.view.SurfaceView.updateSurface:1172 android.view.SurfaceView.onWindowVisibilityChanged:371 
+10-16 02:17:51.662 20102 20102 V SurfaceView@eea14f1: Layout: x=0 y=-1918 w=1080 h=525, frame=Rect(0, 0 - 1080, 525)
+10-16 02:17:51.662 20102 20102 I SurfaceView@eea14f1: onDetachedFromWindow: tryReleaseSurfaces()
+10-16 02:17:51.662 20102 20102 I SurfaceView@eea14f1: releaseSurfaces: viewRoot = ViewRootImpl@3fa491a[MainActivity]
+10-16 02:17:51.662 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: vri = ViewRootImpl@3fa491a[MainActivity] fRS = true t = 0x7b68c61a00 android.view.SurfaceView.releaseSurfaces:858 android.view.SurfaceView.onDetachedFromWindow:500 android.view.View.dispatchDetachedFromWindow:22538 
+10-16 02:17:51.662 20102 20102 I SurfaceView@eea14f1: applyTransactionOnVriDraw: viewRoot.applyTransactionOnDrawFromReleaseSurfaces
+10-16 02:17:51.662 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: applyTransactionOnDraw: mRemoved = false isHardwareEnabled = true t = 0x7b68c61a00android.view.ViewRootImpl.applyTransactionOnDrawFromReleaseSurfaces:12850 android.view.SurfaceView.applyTransactionOnVriDraw:2046 android.view.SurfaceView.releaseSurfaces:858 android.view.SurfaceView.onDetachedFromWindow:500 android.view.View.dispatchDetachedFromWindow:22538 
+10-16 02:17:51.677 20102 20102 I DecorView: notifyKeepScreenOnChanged: keepScreenOn=false
+10-16 02:17:51.679 20102 20102 I CS3ExoPlayer: releasePlayer
+10-16 02:17:51.679 20102 20102 I CS3ExoPlayer: Handle event: PlayerAttachedEvent(player=null, source=Player)
+10-16 02:17:51.680 20102 20102 I DecorView: notifyKeepScreenOnChanged: keepScreenOn=false
+10-16 02:17:51.681 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: performTraversals params={(0,0)(fillxfill) sim={state=always_hidden adjust=resize} ty=BASE_APPLICATION wanim=0x1030309
+10-16 02:17:51.681 20102 20102 I ViewRootImpl@3fa491a[MainActivity]:   fl=85810100
+10-16 02:17:51.681 20102 20102 I ViewRootImpl@3fa491a[MainActivity]:   pfl=12020040
+10-16 02:17:51.681 20102 20102 I ViewRootImpl@3fa491a[MainActivity]:   vsysui=500
+10-16 02:17:51.681 20102 20102 I ViewRootImpl@3fa491a[MainActivity]:   bhv=DEFAULT
+10-16 02:17:51.681 20102 20102 I ViewRootImpl@3fa491a[MainActivity]:   fitSides= naviIconColor=0}
+10-16 02:17:51.681 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: performTraversals mFirst=false windowShouldResize=false viewVisibilityChanged=false mForceNextWindowRelayout=false params={(0,0)(fillxfill) sim={state=always_hidden adjust=resize} ty=BASE_APPLICATION fmt=TRANSLUCENT wanim=0x1030309
+10-16 02:17:51.681 20102 20102 I ViewRootImpl@3fa491a[MainActivity]:   fl=85810100
+10-16 02:17:51.681 20102 20102 I ViewRootImpl@3fa491a[MainActivity]:   pfl=12020040
+10-16 02:17:51.681 20102 20102 I ViewRootImpl@3fa491a[MainActivity]:   vsysui=500
+10-16 02:17:51.681 20102 20102 I ViewRootImpl@3fa491a[MainActivity]:   bhv=DEFAULT
+10-16 02:17:51.681 20102 20102 I ViewRootImpl@3fa491a[MainActivity]:   fitSides= naviIconColor=0}
+10-16 02:17:51.686 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: updateBlastSurfaceIfNeeded mBlastBufferQueue=0x7b47120e00 isSameSurfaceControl=true
+10-16 02:17:51.687 20102 20102 I BLASTBufferQueue: update, w= 1080 h= 2400 mName = ViewRootImpl@3fa491a[MainActivity] mNativeObject= 0x7b47120e00 sc.mNativeObject= 0x7b0a5d3da0 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:2898 android.view.ViewRootImpl.relayoutWindow:9847 android.view.ViewRootImpl.performTraversals:3884 android.view.ViewRootImpl.doTraversal:3116 android.view.ViewRootImpl$TraversalRunnable.run:10885 android.view.Choreographer$CallbackRecord.run:1301 
+10-16 02:17:51.687 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) req=(1080,2400)0 dur=4 res=0x0 s={true 0x7b5dd28000} ch=false seqId=0
+10-16 02:17:51.687 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: updateBoundsLayer: t = android.view.SurfaceControl$Transaction@f075bd9 sc = Surface(name=Bounds for - com.lagradost.cloudstream3/com.lagradost.cloudstream3.MainActivity@0)/@0x6f4699e frame = 735
+10-16 02:17:51.687 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7b46f2dd00 mBlastBufferQueue=0x7b47120e00 fn= 735 caller= android.view.ViewRootImpl.prepareSurfaces:2985 android.view.ViewRootImpl.performTraversals:4233 android.view.ViewRootImpl.doTraversal:3116 
+10-16 02:17:51.688 20102 20129 D SurfaceView@eea14f1: windowPositionLost, frameNr = 735
+10-16 02:17:51.689 20102 20186 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7b68c61200 mBlastBufferQueue=0x7b47120e00 fn= 735 caller= android.view.ViewRootImpl.lambda$applyTransactionOnDraw$11$android-view-ViewRootImpl:12865 android.view.ViewRootImpl$$ExternalSyntheticLambda1.onFrameDraw:4 android.graphics.HardwareRenderer$FrameDrawingCallback.onFrameDraw:924 
+10-16 02:17:51.689 20102 20186 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7b68c61800 mBlastBufferQueue=0x7b47120e00 fn= 735 caller= android.view.ViewRootImpl.lambda$applyTransactionOnDraw$11$android-view-ViewRootImpl:12865 android.view.ViewRootImpl$$ExternalSyntheticLambda1.onFrameDraw:4 android.graphics.HardwareRenderer$FrameDrawingCallback.onFrameDraw:924 
+10-16 02:17:51.690 20102 20186 I ViewRootImpl@3fa491a[MainActivity]: mWNT: t=0x7b68c61a00 mBlastBufferQueue=0x7b47120e00 fn= 735 caller= android.view.ViewRootImpl.lambda$applyTransactionOnDraw$11$android-view-ViewRootImpl:12865 android.view.ViewRootImpl$$ExternalSyntheticLambda1.onFrameDraw:4 android.graphics.HardwareRenderer$FrameDrawingCallback.onFrameDraw:924 
+10-16 02:17:52.443 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 0
+10-16 02:17:52.500 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 1
+10-16 02:17:52.514 20102 20102 I IMM_LC  : hsifw() - flag : 0
+10-16 02:17:52.514 20102 20102 I IMM_LC  : hsifw() - mService.hideSoftInput
+10-16 02:17:52.629 20102 20102 I PLG     : updatePluginList = https://raw.githubusercontent.com/adamwolker21/TestPlugins/refs/heads/master/repo.json
+10-16 02:17:52.630 20102 20102 I PLG     : getPlugins = https://raw.githubusercontent.com/adamwolker21/TestPlugins/refs/heads/master/repo.json
+10-16 02:17:53.976 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 0
+10-16 02:17:54.095 20102 20102 D WindowOnBackDispatcher: onBackInvoked, viewRoot=ViewRootImpl@22e8387[Toast], callback=androidx.activity.OnBackPressedDispatcher$Api33Impl$$ExternalSyntheticLambda0@f10226c
+10-16 02:17:54.105 20102 20102 I IMM_LC  : hsifw() - flag : 0
+10-16 02:17:54.105 20102 20102 I IMM_LC  : hsifw() - mService.hideSoftInput
+10-16 02:17:54.976 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 0
+10-16 02:17:55.077 20102 20102 D WindowOnBackDispatcher: onBackInvoked, viewRoot=ViewRootImpl@22e8387[Toast], callback=androidx.activity.OnBackPressedDispatcher$Api33Impl$$ExternalSyntheticLambda0@f10226c
+10-16 02:17:55.083 20102 20102 I IMM_LC  : hsifw() - flag : 0
+10-16 02:17:55.084 20102 20102 I IMM_LC  : hsifw() - mService.hideSoftInput
+10-16 02:17:55.092 20102 20102 D ScrollView: initGoToTop
+10-16 02:17:55.130 20102 20102 E CoilImgLoader: Error loading image: coil3.request.NullRequestDataException: The request's data is null.
+10-16 02:17:55.141 20102 20102 D ScrollView:  onsize change changed 
+10-16 02:17:55.794 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 0
+10-16 02:17:55.860 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 1
+10-16 02:17:55.872 20102 20102 I NavComponent: Navigating to fragment: 2131361884
+10-16 02:17:55.876 20102 20102 I IMM_LC  : hsifw() - flag : 0
+10-16 02:17:55.876 20102 20102 I IMM_LC  : hsifw() - mService.hideSoftInput
+10-16 02:17:56.447 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 0
+10-16 02:17:56.535 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 1
+10-16 02:17:57.440 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 0
+10-16 02:17:57.489 20102 20102 I ViewRootImpl@3fa491a[MainActivity]: ViewPostIme pointer 1
+10-16 02:17:57.524 20102 20102 I Dialog  : mIsDeviceDefault = false, mIsSamsungBasicInteraction = false, isMetaDataInActivity = false
+10-16 02:17:57.530 20102 20102 I DecorView: [INFO] isPopOver=false config=false
+10-16 02:17:57.530 20102 20102 I DecorView: updateCaptionType: isFloating=true isApplication=true hasWindowDecorCaption=false this=DecorView@92ecc4e[]
+10-16 02:17:57.531 20102 20102 D DecorView: setCaptionType = 0, this = DecorView@92ecc4e[]
+10-16 02:17:57.533 20102 20102 I DecorView: setWindowBackground: isPopOver=false color=ff010101 d=android.graphics.drawable.InsetDrawable@450ce7c
+10-16 02:17:57.553 20102 20102 D ScrollView: initGoToTop
+10-16 02:17:57.566 20102 20129 D NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+10-16 02:17:57.567 20102 20102 I DecorView: onImmersiveModeChanged: isStatusBarHidden=true
+10-16 02:17:57.578 20102 20102 D InsetsController: onStateChanged: InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2400), mDisplayCutout=DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2400 physicalDisplayWidth=1080 physicalDisplayHeight=2400 density={2.625} cutoutSpec={M 0,0 M 0,12.25101276465640 a 10.60613009248640,10.60613009248640 0 1,0 0,21.21226018497290 a 10.60613009248640,10.60613009248640 0 1,0 0,-21.21226018497290 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=84, center=Point(84, 84)}, RoundedCorner{position=TopRight, radius=84, center=Point(996, 84)}, RoundedCorner{position=BottomRight, radius=84, center=Point(996, 2316)}, RoundedCorner{position=BottomLeft, radius=84, center=Point(84, 2316)}]}  mRoundedCornerFrame=Rect(0, 0 - 1080, 2400), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(964, 0 - 1080, 87) rotation=0}, mSources= { InsetsSource: {mType=ITYPE_STATUS_BAR, mFrame=[0,0][1080,88], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_NAVIGATION_BAR, mFrame=[0,2361][1080,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_LEFT_GESTURES, mFrame=[0,0][130,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_RIGHT_GESTURES, mFrame=[950,0][1080,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_TOP_MANDATORY_GESTURES, mFrame=[0,0][1080,120], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_BOTTOM_MANDATORY_GESTURES, mFrame=[0,2316][1080,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_LEFT_DISPLAY_CUTOUT, mFrame=[0,0][-100000,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_TOP_DISPLAY_CUTOUT, mFrame=[0,0][1080,88], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_RIGHT_DISPLAY_CUTOUT, mFrame=[100000,0][1080,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_BOTTOM_DISPLAY_CUTOUT, mFrame=[0,100000][1080,2400], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_TOP_TAPPABLE_ELEMENT, mFrame=[0,0][1080,88], mVisible=true, mInsetsRoundedCornerFrame=false}, InsetsSource: {mType=ITYPE_BOTTOM_TAPPABLE_ELEMENT, mFrame=[0,0][0,0], mVisible=true, mInsetsRoundedCornerFrame=false} } host=com.lagradost.cloudstream3/com.lagradost.cloudstream3.MainActivity from=android.view.ViewRootImpl.setView:1732
+10-16 02:17:57.579 20102 20102 I ViewRootImpl@5e2977b[MainActivity]: setView = com.android.internal.policy.DecorView@92ecc4e TM=true
