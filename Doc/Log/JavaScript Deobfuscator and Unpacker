@@ -1,0 +1,68 @@
+jwplayer("vplayer").setup({
+    sources: [{
+        file: "https://s1.asiatvplayer.com/hls/sinfm4iqwwclvh2ekzyzaqwl6zryiemyplwntdhfp,s6djn5vohn5fuxw4b7a,yutjn5vohnrqp52ixlq,.urlset/master.m3u8"
+    }, {
+        file: "https://s1.asiatvplayer.com/dash/sinfm4iqwwclvh2ekzyzaqwl6zryiemyplwntdhfp,s6djn5vohn5fuxw4b7a,yutjn5vohnrqp52ixlq,.urlset/manifest.mpd"
+    }, {
+        file: "https://s1.asiatvplayer.com/sinfm4iqwwclvh2ekzyzaqwl6zryiemyplwntdhfpyutjn5vohnrqp52ixlq/v.mp4",
+        label: "720p"
+    }, {
+        file: "https://s1.asiatvplayer.com/sinfm4iqwwclvh2ekzyzaqwl6zryiemyplwntdhfps6djn5vohn5fuxw4b7a/v.mp4",
+        label: "360p"
+    }],
+    image: "https://s1.asiatvplayer.com/i/01/00009/9q0q2rd3nety.jpg",
+    width: "100%",
+    height: "100%",
+    stretching: "uniform",
+    duration: "3152.90",
+    preload: 'none',
+    androidhls: "true",
+    hlshtml: "true",
+    primary: "html5",
+    startparam: "start",
+    tracks: [],
+    dash: true,
+    'qualityLabels': {
+        "407": "Low",
+        "1224": "SD"
+    },
+    abouttext: "xvs",
+    aboutlink: "https://www.asiatvplayer.com",
+    cast: {}
+});
+var vvplay, vvad, x2ok = 0;
+var vastdone1 = 0,
+    vastdone2 = 0;
+var player = jwplayer();
+player.on('time', function(x) {
+    if (5 > 0 && x.position >= 5 && vvad != 1) {
+        vvad = 1;
+        $('div.video_ad_fadein').fadeIn('slow')
+    }
+    if (x2ok == 0 && x.position >= 1418 && x.position <= (1418 + 2)) {
+        x2ok = x.position
+    }
+});
+player.on('play', function(x) {
+    doPlay(x)
+});
+player.on('complete', function() {
+    $('div.video_ad').show()
+});
+
+function doPlay(x) {
+    $('div.video_ad').hide();
+    if (vvplay) return;
+    vvplay = 1;
+    adb = 0;
+    if (window.cRAds === undefined) {
+        adb = 1
+    }
+    $.get('https://www.asiatvplayer.com/dl?op=view&file_code=9q0q2rd3nety&hash=46018-105-105-1760701268-676f462daf3e8de88241c3f1609b4439&embed=1&adb=' + adb, function(data) {
+        $('#fviews').html(data)
+    })
+}
+player.on('ready', function() {});
+jwplayer().on('displayClick', function() {
+    jwplayer().setFullscreen(true)
+});
