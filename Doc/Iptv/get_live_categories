@@ -1,0 +1,177 @@
+[
+	{
+		"category_id":"40",
+		"category_name":"CANADA",
+		"parent_id":0
+	},
+	{
+		"category_id":"88",
+		"category_name":"Canada French",
+		"parent_id":0
+	},
+	{
+		"category_id":"1",
+		"category_name":"USA ",
+		"parent_id":0
+	},
+	{
+		"category_id":"68",
+		"category_name":"USA | NEWS | REGIONALS ",
+		"parent_id":0
+	},
+	{
+		"category_id":"67",
+		"category_name":"MOVIE NETWORKS",
+		"parent_id":0
+	},
+	{
+		"category_id":"37",
+		"category_name":"UK UNITED KINGDOM",
+		"parent_id":0
+	},
+	{
+		"category_id":"2",
+		"category_name":"KIDS ZONE",
+		"parent_id":0
+	},
+	{
+		"category_id":"12",
+		"category_name":"PPV | UFC",
+		"parent_id":0
+	},
+	{
+		"category_id":"22",
+		"category_name":"Sports Fanatic's ",
+		"parent_id":0
+	},
+	{
+		"category_id":"169",
+		"category_name":"F1 Formula ",
+		"parent_id":0
+	},
+	{
+		"category_id":"92",
+		"category_name":"24\/7 CHANNELS ",
+		"parent_id":0
+	},
+	{
+		"category_id":"5",
+		"category_name":"MLB",
+		"parent_id":0
+	},
+	{
+		"category_id":"4",
+		"category_name":"NBA",
+		"parent_id":0
+	},
+	{
+		"category_id":"17",
+		"category_name":"NHL",
+		"parent_id":0
+	},
+	{
+		"category_id":"3",
+		"category_name":"NFL",
+		"parent_id":0
+	},
+	{
+		"category_id":"46",
+		"category_name":"LATINO",
+		"parent_id":0
+	},
+	{
+		"category_id":"159",
+		"category_name":"Colombia",
+		"parent_id":0
+	},
+	{
+		"category_id":"195",
+		"category_name":"VENEZUELA",
+		"parent_id":0
+	},
+	{
+		"category_id":"187",
+		"category_name":"Uruguay",
+		"parent_id":0
+	},
+	{
+		"category_id":"171",
+		"category_name":"Argentina",
+		"parent_id":0
+	},
+	{
+		"category_id":"157",
+		"category_name":"Portugal",
+		"parent_id":0
+	},
+	{
+		"category_id":"64",
+		"category_name":"BRAZIL ",
+		"parent_id":0
+	},
+	{
+		"category_id":"160",
+		"category_name":"Chile",
+		"parent_id":0
+	},
+	{
+		"category_id":"170",
+		"category_name":"PERU",
+		"parent_id":0
+	},
+	{
+		"category_id":"151",
+		"category_name":"Australia ",
+		"parent_id":0
+	},
+	{
+		"category_id":"90",
+		"category_name":"ITALY ",
+		"parent_id":0
+	},
+	{
+		"category_id":"80",
+		"category_name":"GREEK",
+		"parent_id":0
+	},
+	{
+		"category_id":"50",
+		"category_name":"Caribbean",
+		"parent_id":0
+	},
+	{
+		"category_id":"183",
+		"category_name":"Germany",
+		"parent_id":0
+	},
+	{
+		"category_id":"181",
+		"category_name":"Vietnam",
+		"parent_id":0
+	},
+	{
+		"category_id":"52",
+		"category_name":"PHILIPPINES",
+		"parent_id":0
+	},
+	{
+		"category_id":"182",
+		"category_name":"France",
+		"parent_id":0
+	},
+	{
+		"category_id":"43",
+		"category_name":"INDIA",
+		"parent_id":0
+	},
+	{
+		"category_id":"41",
+		"category_name":"Radio Stations",
+		"parent_id":0
+	},
+	{
+		"category_id":"74",
+		"category_name":"Live Radio ",
+		"parent_id":0
+	}
+]
